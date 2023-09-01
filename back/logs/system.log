@@ -1,0 +1,9 @@
+2023-09-01 00:12:26.593  WARN 43491 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h6m22s5ms).
+2023-09-01 01:35:02.713  WARN 43491 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h22m36s121ms).
+2023-09-01 02:45:30.572  WARN 43491 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h10m27s858ms).
+2023-09-01 03:53:57.607  WARN 43491 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h8m27s36ms).
+2023-09-01 05:16:16.814  WARN 43491 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h22m19s207ms).
+2023-09-01 06:20:39.847  WARN 43491 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h4m23s33ms).
+2023-09-01 07:19:08.562  WARN 43491 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=58m28s715ms).
+2023-09-01 08:25:44.355  WARN 43491 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h6m35s793ms).
+2023-09-01 09:09:39.625  WARN 43491 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=43m55s268ms).
