@@ -1,9 +1,576 @@
-2023-09-01 00:12:26.593  WARN 43491 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h6m22s5ms).
-2023-09-01 01:35:02.713  WARN 43491 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h22m36s121ms).
-2023-09-01 02:45:30.572  WARN 43491 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h10m27s858ms).
-2023-09-01 03:53:57.607  WARN 43491 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h8m27s36ms).
-2023-09-01 05:16:16.814  WARN 43491 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h22m19s207ms).
-2023-09-01 06:20:39.847  WARN 43491 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h4m23s33ms).
-2023-09-01 07:19:08.562  WARN 43491 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=58m28s715ms).
-2023-09-01 08:25:44.355  WARN 43491 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h6m35s793ms).
-2023-09-01 09:09:39.625  WARN 43491 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=43m55s268ms).
+2023-09-05 00:40:21.386  WARN 15287 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=31m21s375ms).
+2023-09-05 01:11:09.236  WARN 15287 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=30m47s857ms).
+2023-09-05 01:11:35.850 DEBUG 15287 --- [http-nio-8080-exec-9] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 01:11:36.301 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 01:11:36.301 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 01:11:36.301 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 01:11:36.304 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:11:36.305 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:11:36.305 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:11:42.540 DEBUG 15287 --- [http-nio-8080-exec-5] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 01:11:42.661 DEBUG 15287 --- [http-nio-8080-exec-3] c.h.controller.NewsApiController         : getNewsByID: 
+2023-09-05 01:11:42.738 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 01:11:42.738 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 01:11:42.744 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:11:42.744 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:11:42.749 DEBUG 15287 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 01:11:42.749 DEBUG 15287 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:11:42.912 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 01:11:42.917 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:16:27.092 DEBUG 15287 --- [http-nio-8080-exec-3] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 01:16:27.410 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 01:16:27.414 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:16:27.448 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 01:16:27.448 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 01:16:27.449 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:16:27.449 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:16:59.147 DEBUG 15287 --- [http-nio-8080-exec-9] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 01:16:59.162 DEBUG 15287 --- [http-nio-8080-exec-5] c.h.controller.NewsApiController         : getNewsByID: 
+2023-09-05 01:16:59.386 DEBUG 15287 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 01:16:59.388 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 01:16:59.391 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 01:16:59.470 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:16:59.470 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:16:59.470 DEBUG 15287 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:16:59.632 DEBUG 15287 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 01:16:59.637 DEBUG 15287 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:18:39.511 DEBUG 15287 --- [http-nio-8080-exec-1] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 01:18:39.516 DEBUG 15287 --- [http-nio-8080-exec-3] c.h.controller.NewsApiController         : getNewsByID: 
+2023-09-05 01:18:39.957 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 01:18:39.962 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:18:40.109 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 01:18:40.106 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 01:18:40.109 DEBUG 15287 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 01:18:40.111 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:18:40.113 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:18:40.111 DEBUG 15287 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:20:05.060 DEBUG 15287 --- [http-nio-8080-exec-5] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 01:20:05.432 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 01:20:05.433 DEBUG 15287 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 01:20:05.433 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 01:20:05.437 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:20:05.436 DEBUG 15287 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:20:05.436 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:20:07.975 DEBUG 15287 --- [http-nio-8080-exec-1] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 01:20:08.003 DEBUG 15287 --- [http-nio-8080-exec-9] c.h.controller.NewsApiController         : getNewsByID: 
+2023-09-05 01:20:08.308 DEBUG 15287 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 01:20:08.312 DEBUG 15287 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:20:08.349 DEBUG 15287 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 01:20:08.351 DEBUG 15287 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 01:20:08.351 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 01:20:08.351 DEBUG 15287 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:20:08.352 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:20:08.353 DEBUG 15287 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:20:22.854 DEBUG 15287 --- [http-nio-8080-exec-3] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 01:20:22.870 DEBUG 15287 --- [http-nio-8080-exec-10] c.h.controller.NewsApiController         : getNewsByID: 
+2023-09-05 01:20:23.230 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 01:20:23.229 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 01:20:23.229 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 01:20:23.229 DEBUG 15287 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 01:20:23.234 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:20:23.234 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:20:23.234 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:20:23.237 DEBUG 15287 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:22:50.996 DEBUG 15287 --- [http-nio-8080-exec-2] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 01:22:51.002 DEBUG 15287 --- [http-nio-8080-exec-6] c.h.controller.NewsApiController         : getNewsByID: 
+2023-09-05 01:22:51.353 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 01:22:51.353 DEBUG 15287 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 01:22:51.380 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 01:22:51.384 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:22:51.358 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:22:51.384 DEBUG 15287 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:22:51.429 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 01:22:51.439 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:24:51.219 DEBUG 15287 --- [http-nio-8080-exec-3] c.h.controller.NewsApiController         : getNewsByID: 
+2023-09-05 01:24:51.215 DEBUG 15287 --- [http-nio-8080-exec-10] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 01:24:51.566 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 01:24:51.570 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 01:24:51.575 DEBUG 15287 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 01:24:51.571 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:24:51.575 DEBUG 15287 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:24:51.575 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 01:24:51.575 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:24:51.571 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:25:12.199 DEBUG 15287 --- [http-nio-8080-exec-1] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 01:25:12.204 DEBUG 15287 --- [http-nio-8080-exec-5] c.h.controller.NewsApiController         : getNewsByID: 
+2023-09-05 01:25:12.526 DEBUG 15287 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 01:25:12.530 DEBUG 15287 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:25:12.535 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 01:25:12.535 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:25:12.575 DEBUG 15287 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 01:25:12.575 DEBUG 15287 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 01:25:12.576 DEBUG 15287 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:25:12.576 DEBUG 15287 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:32:05.178 DEBUG 15287 --- [http-nio-8080-exec-8] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 01:32:05.444 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 01:32:05.444 DEBUG 15287 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 01:32:05.444 DEBUG 15287 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 01:32:05.447 DEBUG 15287 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:32:05.447 DEBUG 15287 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:32:05.447 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:32:10.383 DEBUG 15287 --- [http-nio-8080-exec-3] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 01:32:10.409 DEBUG 15287 --- [http-nio-8080-exec-10] c.h.controller.NewsApiController         : getNewsByID: 
+2023-09-05 01:32:10.634 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 01:32:10.634 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 01:32:10.634 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 01:32:10.637 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:32:10.638 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:32:10.638 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:32:10.848 DEBUG 15287 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 01:32:10.852 DEBUG 15287 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:32:16.324 DEBUG 15287 --- [http-nio-8080-exec-5] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 01:32:16.328 DEBUG 15287 --- [http-nio-8080-exec-4] c.h.controller.NewsApiController         : getNewsByID: 
+2023-09-05 01:32:16.545 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 01:32:16.546 DEBUG 15287 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 01:32:16.547 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 01:32:16.549 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:32:16.549 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:32:16.549 DEBUG 15287 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 01:32:16.746 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 01:32:16.750 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 02:45:15.095  WARN 15287 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h9m5s595ms).
+2023-09-05 04:07:50.499  WARN 15287 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h22m35s407ms).
+2023-09-05 05:14:46.739  WARN 15287 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h6m56s240ms).
+2023-09-05 06:20:04.898  WARN 15287 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h5m18s158ms).
+2023-09-05 07:24:50.131  WARN 15287 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h4m45s232ms).
+2023-09-05 08:16:48.520  WARN 15287 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=51m58s389ms).
+2023-09-05 08:50:09.461  WARN 15287 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=33m20s943ms).
+2023-09-05 09:00:38.839  WARN 15287 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m59s371ms).
+2023-09-05 09:04:45.523 DEBUG 15287 --- [http-nio-8080-exec-7] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 09:04:45.899 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 09:04:45.899 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 09:04:45.899 DEBUG 15287 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 09:04:45.903 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:04:45.904 DEBUG 15287 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:04:45.904 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:05:05.215 DEBUG 15287 --- [http-nio-8080-exec-7] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 09:05:05.701 DEBUG 15287 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 09:05:05.705 DEBUG 15287 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:05:05.710 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 09:05:05.710 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:05:05.750 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 09:05:05.752 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:17:44.157 DEBUG 15287 --- [http-nio-8080-exec-10] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 09:17:44.196 DEBUG 15287 --- [http-nio-8080-exec-4] c.h.controller.NewsApiController         : getNewsByID: 
+2023-09-05 09:17:44.366 DEBUG 15287 --- [http-nio-8080-exec-6] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 09:17:44.559 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 09:17:44.559 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 09:17:44.559 DEBUG 15287 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 09:17:44.564 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:17:44.564 DEBUG 15287 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:17:44.565 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:22:43.582 DEBUG 15287 --- [http-nio-8080-exec-2] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 09:26:49.805 DEBUG 15287 --- [http-nio-8080-exec-7] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 09:26:50.165 DEBUG 15287 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 09:26:50.165 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 09:26:50.171 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:26:50.171 DEBUG 15287 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:26:50.203 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 09:26:50.204 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:34:35.283 DEBUG 15287 --- [http-nio-8080-exec-8] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 09:34:36.215 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 09:34:36.221 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 09:34:36.222 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 09:34:36.221 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:34:36.221 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:34:36.223 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:35:33.291 DEBUG 15287 --- [http-nio-8080-exec-5] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 09:35:33.414 DEBUG 15287 --- [http-nio-8080-exec-1] c.h.controller.NewsApiController         : getNewsByID: 
+2023-09-05 09:35:34.045 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 09:35:34.044 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 09:35:34.049 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 09:35:34.050 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:35:34.051 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:35:34.051 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:35:34.390 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 09:35:34.395 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:36:48.594 DEBUG 15287 --- [http-nio-8080-exec-5] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 09:36:49.167 DEBUG 15287 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 09:36:49.169 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 09:36:49.169 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 09:36:49.169 DEBUG 15287 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:36:49.169 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:36:49.170 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:36:52.842 DEBUG 15287 --- [http-nio-8080-exec-10] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 09:36:53.083 DEBUG 15287 --- [http-nio-8080-exec-6] c.h.controller.NewsApiController         : getNewsByID: 
+2023-09-05 09:36:53.164 DEBUG 15287 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 09:36:53.169 DEBUG 15287 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:36:53.177 DEBUG 15287 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 09:36:53.177 DEBUG 15287 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:36:53.177 DEBUG 15287 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 09:36:53.178 DEBUG 15287 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:36:53.336 DEBUG 15287 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 09:36:53.340 DEBUG 15287 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:36:55.845 DEBUG 15287 --- [http-nio-8080-exec-2] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 09:36:55.994 DEBUG 15287 --- [http-nio-8080-exec-10] c.h.controller.NewsApiController         : getNewsByID: 
+2023-09-05 09:36:56.217 DEBUG 15287 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 09:36:56.217 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 09:36:56.218 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:36:56.219 DEBUG 15287 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:36:56.254 DEBUG 15287 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 09:36:56.255 DEBUG 15287 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:36:56.420 DEBUG 15287 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 09:36:56.424 DEBUG 15287 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:37:36.183 DEBUG 15287 --- [http-nio-8080-exec-4] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 09:37:36.487 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 09:37:36.487 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 09:37:36.487 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 09:37:36.491 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:37:36.492 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:37:36.492 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:52:13.044 DEBUG 15287 --- [http-nio-8080-exec-9] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 09:52:13.328 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 09:52:13.328 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 09:52:13.328 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 09:52:13.332 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:52:13.332 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 09:52:13.332 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:01:27.354 DEBUG 15287 --- [http-nio-8080-exec-1] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 10:01:27.888 DEBUG 15287 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 10:01:27.888 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 10:01:27.888 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 10:01:27.894 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:01:27.894 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:01:27.895 DEBUG 15287 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:13:11.345 DEBUG 15287 --- [http-nio-8080-exec-7] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 10:13:11.360 DEBUG 15287 --- [http-nio-8080-exec-2] c.h.controller.NewsApiController         : getNewsByID: 
+2023-09-05 10:13:11.898 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 10:13:11.898 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 10:13:11.898 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 10:13:11.904 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:13:11.904 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:13:11.904 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:13:12.117 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 10:13:12.121 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:13:18.935 DEBUG 15287 --- [http-nio-8080-exec-3] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 10:13:18.956 DEBUG 15287 --- [http-nio-8080-exec-10] c.h.controller.NewsApiController         : getNewsByID: 
+2023-09-05 10:13:19.282 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 10:13:19.285 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:13:19.349 DEBUG 15287 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 10:13:19.349 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 10:13:19.349 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 10:13:19.349 DEBUG 15287 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:13:19.349 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:13:19.350 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:14:02.463 DEBUG 15287 --- [http-nio-8080-exec-8] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 10:14:03.045 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 10:14:03.050 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:14:03.167 DEBUG 15287 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 10:14:03.170 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 10:14:03.176 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:14:03.176 DEBUG 15287 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:22:20.408 DEBUG 15287 --- [http-nio-8080-exec-8] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 10:22:20.911 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 10:22:20.915 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:22:20.952 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 10:22:20.952 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 10:22:20.953 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:22:20.953 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:23:03.228 DEBUG 15287 --- [http-nio-8080-exec-3] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 10:23:03.870 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 10:23:03.873 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:23:03.877 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 10:23:03.877 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:23:03.877 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 10:23:03.877 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:23:31.193 DEBUG 15287 --- [http-nio-8080-exec-1] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 10:23:32.597 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 10:23:32.597 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 10:23:32.599 DEBUG 15287 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 10:23:32.603 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:23:32.603 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:23:32.603 DEBUG 15287 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:23:43.903 DEBUG 15287 --- [http-nio-8080-exec-2] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 10:23:44.359 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 10:23:44.359 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 10:23:44.364 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:23:44.364 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:23:44.387 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 10:23:44.387 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:25:27.873 DEBUG 15287 --- [http-nio-8080-exec-8] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 10:25:28.473 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 10:25:28.474 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:25:28.474 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 10:25:28.475 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:25:28.478 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 10:25:28.478 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:32:07.769 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.admin.LoginServiceImpl     : loadUserByUsername: atcadmin
+2023-09-05 10:32:07.891 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.admin.LoginServiceImpl     : loadUserByUsername: if started firts, atcadmin and $2a$10$oGNo.voMPbNzuRj1fVMH1uOKrmNSF2HJ1Ixnek0dXHUFtqLH/tBmu
+2023-09-05 10:32:13.088 DEBUG 15287 --- [http-nio-8080-exec-1] com.hackathon.admin.LoginServiceImpl     : loadUserByUsername: atcadmin
+2023-09-05 10:32:13.209 DEBUG 15287 --- [http-nio-8080-exec-1] com.hackathon.admin.LoginServiceImpl     : loadUserByUsername: if started firts, atcadmin and $2a$10$/Wi9aE4wduZhV9/sYnXyq.RQfzUX03C2PpJ4UEX5Gl6hCVICIJSoG
+2023-09-05 10:32:13.309 DEBUG 15287 --- [http-nio-8080-exec-8] com.hackathon.admin.AdminController      : listBlog : true
+2023-09-05 10:32:13.334 DEBUG 15287 --- [http-nio-8080-exec-8] com.hackathon.admin.AdminController      : list1 : [com.hackathon.entity.News@7acba053, com.hackathon.entity.News@6eb5d30, com.hackathon.entity.News@ee46cc2]
+2023-09-05 10:32:13.409 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 10:32:13.409 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 10:32:13.412 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:32:13.412 DEBUG 15287 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:32:13.537 DEBUG 15287 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 10:32:13.544 DEBUG 15287 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:32:16.841 DEBUG 15287 --- [http-nio-8080-exec-1] com.hackathon.admin.AdminController      : inside 
+2023-09-05 10:32:16.846 DEBUG 15287 --- [http-nio-8080-exec-1] com.hackathon.admin.AdminController      : dash : true
+2023-09-05 10:32:16.861 DEBUG 15287 --- [http-nio-8080-exec-1] c.hackathon.service.RegistrationService  : getAllRegistrations: 
+2023-09-05 10:32:16.887 DEBUG 15287 --- [http-nio-8080-exec-1] com.hackathon.admin.AdminController      : regList : []
+2023-09-05 10:32:57.085 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.admin.AdminController      : listBlog : true
+2023-09-05 10:32:57.124 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.admin.AdminController      : list1 : [com.hackathon.entity.News@5c23338a, com.hackathon.entity.News@63192179, com.hackathon.entity.News@7f498823]
+2023-09-05 10:32:57.158 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 10:32:57.158 DEBUG 15287 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 10:32:57.161 DEBUG 15287 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:32:57.161 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:32:57.208 DEBUG 15287 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 10:32:57.209 DEBUG 15287 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:35:21.412 DEBUG 15287 --- [http-nio-8080-exec-1] c.h.controller.NewsApiController         : getNewsByID: 
+2023-09-05 10:35:21.497 DEBUG 15287 --- [http-nio-8080-exec-10] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 10:35:23.015 DEBUG 15287 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 10:35:23.021 DEBUG 15287 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:35:23.120 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 10:35:23.121 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:35:23.160 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 10:35:23.160 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:35:23.970 DEBUG 15287 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 10:35:23.975 DEBUG 15287 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:36:20.617 DEBUG 15287 --- [http-nio-8080-exec-5] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 10:36:20.895 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 10:36:20.895 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:36:21.028 DEBUG 15287 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 10:36:21.031 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 10:36:21.034 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:36:21.033 DEBUG 15287 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:44:16.572 DEBUG 15287 --- [http-nio-8080-exec-5] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 10:44:16.587 DEBUG 15287 --- [http-nio-8080-exec-10] c.h.controller.NewsApiController         : getNewsByID: 
+2023-09-05 10:44:16.944 DEBUG 15287 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 10:44:16.944 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 10:44:16.951 DEBUG 15287 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:44:16.950 DEBUG 15287 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:44:17.004 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 10:44:17.004 DEBUG 15287 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 10:44:17.409 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 10:44:17.414 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 11:13:27.764 DEBUG 15287 --- [http-nio-8080-exec-5] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 11:13:32.049 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 11:13:32.054 DEBUG 15287 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 11:13:32.090 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 11:13:32.091 DEBUG 15287 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 11:13:32.589 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 11:13:32.595 DEBUG 15287 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 11:16:46.963  INFO 89461 --- [restartedMain] com.hackathon.HackathonApplication       : Starting HackathonApplication using Java 18.0.2.1 on MacBook-Air-cua-Tran.local with PID 89461 (/Users/tranquockhanh/Desktop/HackathonLandingPage/hackerthon/back/hackathon/target/classes started by tranquockhanh in /Users/tranquockhanh/Desktop/HackathonLandingPage/hackerthon/back)
+2023-09-05 11:16:46.966 DEBUG 89461 --- [restartedMain] com.hackathon.HackathonApplication       : Running with Spring Boot v2.7.6, Spring v5.3.24
+2023-09-05 11:16:46.966  INFO 89461 --- [restartedMain] com.hackathon.HackathonApplication       : The following 1 profile is active: "local"
+2023-09-05 11:16:50.326 DEBUG 89461 --- [restartedMain] com.hackathon.ConfigWeb                  : /Users/tranquockhanh/Desktop/HackathonLandingPage/hackerthon/back/./uploads
+2023-09-05 11:16:50.461  WARN 89461 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2023-09-05 11:16:50.511  INFO 89461 --- [restartedMain] com.hackathon.HackathonApplication       : Started HackathonApplication in 3.908 seconds (JVM running for 9.58)
+2023-09-05 11:19:21.529 DEBUG 89461 --- [http-nio-8080-exec-2] c.h.controller.RegistrationController    : registerUser: 
+2023-09-05 11:20:41.580 DEBUG 89461 --- [http-nio-8080-exec-5] c.h.controller.RegistrationController    : registerUser: 
+2023-09-05 11:22:34.503 DEBUG 89461 --- [http-nio-8080-exec-10] c.h.controller.RegistrationController    : registerUser: 
+2023-09-05 11:22:34.503 DEBUG 89461 --- [http-nio-8080-exec-9] c.h.controller.RegistrationController    : registerUser: 
+2023-09-05 11:23:11.730 DEBUG 89461 --- [http-nio-8080-exec-2] c.h.controller.RegistrationController    : registerUser: 
+2023-09-05 11:37:33.588 DEBUG 89461 --- [http-nio-8080-exec-7] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 11:37:35.556 DEBUG 89461 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 11:37:35.555 DEBUG 89461 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 11:37:35.555 DEBUG 89461 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 11:37:35.576 DEBUG 89461 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 11:37:35.576 DEBUG 89461 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 11:37:35.576 DEBUG 89461 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 11:43:26.237 DEBUG 89461 --- [http-nio-8080-exec-2] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 11:43:32.032 DEBUG 89461 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 11:43:32.036 DEBUG 89461 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 11:43:32.090 DEBUG 89461 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 11:43:32.091 DEBUG 89461 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 11:43:32.193 DEBUG 89461 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 11:43:32.195 DEBUG 89461 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 11:50:56.613 DEBUG 89461 --- [http-nio-8080-exec-1] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 11:50:59.024 DEBUG 89461 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 11:50:59.027 DEBUG 89461 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 11:50:59.102 DEBUG 89461 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 11:50:59.103 DEBUG 89461 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 11:50:59.107 DEBUG 89461 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 11:50:59.108 DEBUG 89461 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 11:51:44.725 DEBUG 89461 --- [http-nio-8080-exec-4] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 11:51:47.735 DEBUG 89461 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 11:51:47.741 DEBUG 89461 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 11:51:47.783 DEBUG 89461 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 11:51:47.783 DEBUG 89461 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 11:51:47.784 DEBUG 89461 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 11:51:47.784 DEBUG 89461 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 11:52:34.212 DEBUG 89461 --- [http-nio-8080-exec-4] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 11:52:35.389 DEBUG 89461 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 11:52:35.394 DEBUG 89461 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 11:52:35.397 DEBUG 89461 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 11:52:35.397 DEBUG 89461 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 11:52:35.554 DEBUG 89461 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 11:52:35.556 DEBUG 89461 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 11:52:46.858 DEBUG 89461 --- [http-nio-8080-exec-2] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 11:52:48.857 DEBUG 89461 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 11:52:48.859 DEBUG 89461 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 11:52:49.823 DEBUG 89461 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 11:52:49.824 DEBUG 89461 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 11:52:50.760 DEBUG 89461 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 11:52:50.761 DEBUG 89461 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 11:53:54.046 DEBUG 89461 --- [http-nio-8080-exec-6] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 11:53:55.282 DEBUG 89461 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 11:53:55.288 DEBUG 89461 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 11:53:55.312 DEBUG 89461 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 11:53:55.322 DEBUG 89461 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 11:53:55.774 DEBUG 89461 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 11:53:55.777 DEBUG 89461 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 12:06:01.724 DEBUG 89461 --- [http-nio-8080-exec-5] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 12:06:01.742 DEBUG 89461 --- [http-nio-8080-exec-1] c.h.controller.RegistrationController    : registerUser: 
+2023-09-05 12:06:04.367 DEBUG 89461 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 12:06:04.369 DEBUG 89461 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 12:06:04.406 DEBUG 89461 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 12:06:04.407 DEBUG 89461 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 12:06:04.415 DEBUG 89461 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 12:06:04.416 DEBUG 89461 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 12:06:46.565 DEBUG 89461 --- [http-nio-8080-exec-9] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 12:06:49.862 DEBUG 89461 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 12:06:49.869 DEBUG 89461 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 12:06:50.478 DEBUG 89461 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 12:06:50.480 DEBUG 89461 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 12:06:50.718 DEBUG 89461 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 12:06:50.723 DEBUG 89461 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 12:41:54.273 DEBUG 89461 --- [http-nio-8080-exec-4] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 12:41:55.952 DEBUG 89461 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 12:41:55.954 DEBUG 89461 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 12:41:56.050 DEBUG 89461 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 12:41:56.050 DEBUG 89461 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 12:41:56.053 DEBUG 89461 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 12:41:56.053 DEBUG 89461 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 12:47:19.655 DEBUG 89461 --- [http-nio-8080-exec-2] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 12:47:21.759 DEBUG 89461 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 12:47:21.762 DEBUG 89461 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 12:47:21.845 DEBUG 89461 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 12:47:21.845 DEBUG 89461 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 12:47:21.848 DEBUG 89461 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 12:47:21.848 DEBUG 89461 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 12:50:27.439 DEBUG 89461 --- [http-nio-8080-exec-5] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 12:50:30.339 DEBUG 89461 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 12:50:30.343 DEBUG 89461 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 12:50:30.368 DEBUG 89461 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 12:50:30.368 DEBUG 89461 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 12:50:30.528 DEBUG 89461 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 12:50:30.531 DEBUG 89461 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 12:51:04.569 DEBUG 89461 --- [http-nio-8080-exec-7] c.h.controller.RegistrationController    : registerUser: 
+2023-09-05 12:54:49.687 DEBUG 89461 --- [http-nio-8080-exec-2] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 12:54:50.543 DEBUG 89461 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 12:54:50.543 DEBUG 89461 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 12:54:50.546 DEBUG 89461 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 12:54:50.546 DEBUG 89461 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 12:54:50.569 DEBUG 89461 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 12:54:50.570 DEBUG 89461 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 12:59:54.972 DEBUG 89461 --- [http-nio-8080-exec-7] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 12:59:56.998 DEBUG 89461 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 12:59:57.003 DEBUG 89461 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 12:59:57.014 DEBUG 89461 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 12:59:57.015 DEBUG 89461 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 12:59:57.052 DEBUG 89461 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 12:59:57.052 DEBUG 89461 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:00:04.665 DEBUG 89461 --- [http-nio-8080-exec-10] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 13:00:08.238 DEBUG 89461 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 13:00:08.241 DEBUG 89461 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:00:08.282 DEBUG 89461 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 13:00:08.282 DEBUG 89461 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 13:00:08.282 DEBUG 89461 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:00:08.283 DEBUG 89461 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:00:56.345 DEBUG 89461 --- [http-nio-8080-exec-3] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 13:00:58.813 DEBUG 89461 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 13:00:58.816 DEBUG 89461 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:00:58.908 DEBUG 89461 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 13:00:58.908 DEBUG 89461 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 13:00:58.912 DEBUG 89461 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:00:58.912 DEBUG 89461 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:05:10.160 DEBUG 89461 --- [http-nio-8080-exec-9] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 13:09:59.902 DEBUG 89461 --- [http-nio-8080-exec-6] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 13:10:00.234 DEBUG 89461 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 13:10:00.238 DEBUG 89461 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:10:00.248 DEBUG 89461 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 13:10:00.248 DEBUG 89461 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 13:10:00.250 DEBUG 89461 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:10:00.250 DEBUG 89461 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:14:02.765 DEBUG 89461 --- [http-nio-8080-exec-2] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 13:14:03.110 DEBUG 89461 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 13:14:03.110 DEBUG 89461 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 13:14:03.110 DEBUG 89461 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 13:14:03.113 DEBUG 89461 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:14:03.114 DEBUG 89461 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:14:03.113 DEBUG 89461 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:14:25.925 DEBUG 89461 --- [http-nio-8080-exec-2] c.h.controller.RegistrationController    : registerUser: 
+2023-09-05 13:17:37.594 DEBUG 89461 --- [http-nio-8080-exec-4] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 13:17:38.104 DEBUG 89461 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 13:17:38.107 DEBUG 89461 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:17:38.133 DEBUG 89461 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 13:17:38.133 DEBUG 89461 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 13:17:38.134 DEBUG 89461 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:17:38.134 DEBUG 89461 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:18:13.652 DEBUG 89461 --- [http-nio-8080-exec-4] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 13:18:14.253 DEBUG 89461 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 13:18:14.253 DEBUG 89461 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 13:18:14.253 DEBUG 89461 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 13:18:14.261 DEBUG 89461 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:18:14.261 DEBUG 89461 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:18:14.261 DEBUG 89461 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:20:05.711 DEBUG 89461 --- [http-nio-8080-exec-7] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 13:20:06.069 DEBUG 89461 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 13:20:06.072 DEBUG 89461 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:20:06.091 DEBUG 89461 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 13:20:06.101 DEBUG 89461 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:20:06.108 DEBUG 89461 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 13:20:06.109 DEBUG 89461 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:21:41.169 DEBUG 89461 --- [http-nio-8080-exec-3] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 13:21:41.182 DEBUG 89461 --- [http-nio-8080-exec-6] c.h.controller.RegistrationController    : registerUser: 
+2023-09-05 13:21:41.510 DEBUG 89461 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 13:21:41.509 DEBUG 89461 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 13:21:41.513 DEBUG 89461 --- [http-nio-8080-exec-5] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:21:41.513 DEBUG 89461 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:21:41.544 DEBUG 89461 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 13:21:41.546 DEBUG 89461 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:28:12.307 DEBUG 89461 --- [http-nio-8080-exec-2] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 13:28:12.733 DEBUG 89461 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 13:28:12.737 DEBUG 89461 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:28:12.744 DEBUG 89461 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 13:28:12.752 DEBUG 89461 --- [http-nio-8080-exec-9] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:28:12.755 DEBUG 89461 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 13:28:12.755 DEBUG 89461 --- [http-nio-8080-exec-6] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:29:20.404 DEBUG 89461 --- [http-nio-8080-exec-10] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 13:29:20.727 DEBUG 89461 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 13:29:20.727 DEBUG 89461 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 13:29:20.729 DEBUG 89461 --- [http-nio-8080-exec-3] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:29:20.729 DEBUG 89461 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:29:20.768 DEBUG 89461 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 13:29:20.771 DEBUG 89461 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:35:37.875 DEBUG 89461 --- [http-nio-8080-exec-6] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 13:35:38.350 DEBUG 89461 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 13:35:38.350 DEBUG 89461 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 13:35:38.353 DEBUG 89461 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 13:35:38.355 DEBUG 89461 --- [http-nio-8080-exec-10] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:35:38.355 DEBUG 89461 --- [http-nio-8080-exec-8] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:35:38.355 DEBUG 89461 --- [http-nio-8080-exec-7] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:40:02.389 DEBUG 89461 --- [http-nio-8080-exec-3] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 13:40:02.629 DEBUG 89461 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 13:40:02.638 DEBUG 89461 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:40:02.650 DEBUG 89461 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 13:40:02.650 DEBUG 89461 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 13:40:02.650 DEBUG 89461 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:40:02.650 DEBUG 89461 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:40:35.606 DEBUG 89461 --- [http-nio-8080-exec-10] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 13:40:35.968 DEBUG 89461 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 13:40:35.975 DEBUG 89461 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:40:35.981 DEBUG 89461 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 13:40:35.982 DEBUG 89461 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:40:36.008 DEBUG 89461 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 13:40:36.017 DEBUG 89461 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:40:50.880 DEBUG 89461 --- [http-nio-8080-exec-10] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 13:40:51.248 DEBUG 89461 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : image2display: request file decoded name : 93b803a2-7068-4a95-8442-1cc4d03b9f92.jpg
+2023-09-05 13:40:51.248 DEBUG 89461 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : image2display: request file decoded name : 679b3e5e-d032-4d41-b5f9-8d24f0a56e0c.jpg
+2023-09-05 13:40:51.250 DEBUG 89461 --- [http-nio-8080-exec-2] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:40:51.250 DEBUG 89461 --- [http-nio-8080-exec-4] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:40:51.282 DEBUG 89461 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : image2display: request file decoded name : 5ddc51c1-94a7-42dd-aefe-dd1be809cbe2.jpg
+2023-09-05 13:40:51.283 DEBUG 89461 --- [http-nio-8080-exec-1] com.hackathon.file.FileRestController    : header content type : [Content-Type:"image/jpeg"]
+2023-09-05 13:42:39.287  INFO 99411 --- [restartedMain] com.hackathon.HackathonApplication       : Starting HackathonApplication using Java 18.0.2.1 on MacBook-Air-cua-Tran.local with PID 99411 (/Users/tranquockhanh/Desktop/HackathonLandingPage/hackerthon/back/hackathon/target/classes started by tranquockhanh in /Users/tranquockhanh/Desktop/HackathonLandingPage/hackerthon/back)
+2023-09-05 13:42:39.288 DEBUG 99411 --- [restartedMain] com.hackathon.HackathonApplication       : Running with Spring Boot v2.7.6, Spring v5.3.24
+2023-09-05 13:42:39.288  INFO 99411 --- [restartedMain] com.hackathon.HackathonApplication       : The following 1 profile is active: "local"
+2023-09-05 13:42:45.036 DEBUG 99411 --- [restartedMain] com.hackathon.ConfigWeb                  : /Users/tranquockhanh/Desktop/HackathonLandingPage/hackerthon/back/./uploads
+2023-09-05 13:42:45.166  WARN 99411 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2023-09-05 13:42:45.208  INFO 99411 --- [restartedMain] com.hackathon.HackathonApplication       : Started HackathonApplication in 6.224 seconds (JVM running for 11.926)
+2023-09-05 13:43:58.119 DEBUG 99411 --- [http-nio-8080-exec-2] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 13:44:19.432 DEBUG 99411 --- [http-nio-8080-exec-4] c.h.controller.NewsApiController         : getAllNews: 
+2023-09-05 13:44:35.242 DEBUG 99411 --- [http-nio-8080-exec-6] c.h.controller.RegistrationController    : registerUser: 
+2023-09-05 13:46:20.539 DEBUG 99411 --- [http-nio-8080-exec-1] c.h.controller.NewsApiController         : getAllNews: 
