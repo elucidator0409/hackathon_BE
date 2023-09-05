@@ -28,7 +28,8 @@ public class ConfigWeb implements WebMvcConfigurer {
     }
     @Override
     public void addCorsMappings(CorsRegistry registry) {
-        registry.addMapping("/api/**").allowedOrigins("http://localhost","https://806e-113-23-3-214.ngrok-free.app","https://elucidator0409.github.io");
+        registry.addMapping("/api/**").allowedOrigins("http://localhost","https://806e-113-23-3-214.ngrok-free.app",
+        "https://elucidator0409.github.io","https://hackathon.atcollabo.com");
     }
 
 }
