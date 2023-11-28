@@ -53,14 +53,5 @@ public class MockData {
 
 
 
-    @Override
-    public String toString() {
-        return "MockData{" +
-                "id=" + id +
-                ", no=" + no +
-                ", email='" + email + '\'' +
-                ", score=" + score +
 
-                '}';
-    }
 }

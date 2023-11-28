@@ -38,7 +38,13 @@ public class MockDataService {
 
         try {
             // Replace "path/to/mockdata.json" with the actual path to your JSON file
-            File file = new File("hackathon/mockdata.json");
+            /**String absolutePathToTest = new File("").getAbsolutePath();
+            String absolutePath = new File("").getAbsolutePath() +"/mockdata.json" ;
+            File file = new File(absolutePath);**/
+            File file = new File("mockdata.json");
+            String absolutePath = file.getAbsolutePath();
+            System.out.println("Path to json file: "+ absolutePath );
+
 
             // Read JSON file and convert to a list of MockData objects
             List<MockData> mockDataList = Arrays.asList(objectMapper.readValue(file, MockData[].class));
