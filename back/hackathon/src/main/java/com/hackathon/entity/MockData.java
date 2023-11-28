@@ -26,9 +26,6 @@ public class MockData {
     @Column(nullable = false, unique = false)
     private Integer score; // Use Integer to handle null values
 
-    @Column(nullable = false, unique = false)
-    private String result;
-
     public int getNo() {
         return no;
     }
@@ -41,9 +38,6 @@ public class MockData {
         return score;
     }
 
-    public String getResult() {
-        return result;
-    }
 
     public void setNo(int no) {
         this.no = no;
@@ -57,9 +51,7 @@ public class MockData {
         this.score = score;
     }
 
-    public void setResult(String result) {
-        this.result = result;
-    }
+
 
     @Override
     public String toString() {
@@ -68,7 +60,7 @@ public class MockData {
                 ", no=" + no +
                 ", email='" + email + '\'' +
                 ", score=" + score +
-                ", result='" + result + '\'' +
+
                 '}';
     }
 }
