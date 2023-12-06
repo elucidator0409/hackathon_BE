@@ -21,10 +21,10 @@ public class MockDataService {
     public MockDataService(MockDataRepository mockDataRepository) {
         this.mockDataRepository = mockDataRepository;
     }
-    public List<String> searchResultsByEmail(String email) {
-        return mockDataRepository.findResultsByEmail(email);
-    }
 
+    public List<String> searchResultsByEmail(String email, String type) {
+        return mockDataRepository.findResultsByEmail(email, type);
+    }
     @PostConstruct
     public void init() {
         readAndSaveMockDataFromFile();

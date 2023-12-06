@@ -9,8 +9,8 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 
 public interface MockDataRepository extends JpaRepository<MockData, Long>{
-    @Query("SELECT m.score FROM MockData m WHERE m.email = :email")
-    List<String> findResultsByEmail(String email);
+    @Query("SELECT m.score FROM MockData m WHERE m.email = :email AND m.type = :type")
+    List<String> findResultsByEmail(String email, String type);
 
     @Modifying
     @Transactional

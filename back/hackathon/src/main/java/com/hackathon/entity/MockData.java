@@ -18,6 +18,9 @@ public class MockData {
     private Long id;
 
     @Column(nullable = false, unique = false)
+    private String type;
+
+    @Column(nullable = false, unique = false)
     private int no;
 
     @Column(nullable = false, unique = false)

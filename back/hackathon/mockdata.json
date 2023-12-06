@@ -1,2592 +1,3243 @@
 [
   {
+    "type": "SpringBoot",
     "no": 1,
-    "email": "2000004683@nttu.edu.vn",
-    "score": 33
-  },
-  {
-    "no": 2,
     "email": "20h1120119@ut.edu.vn",
-    "score": 15
-  },
-  {
-    "no": 3,
-    "email": "21110376@student.hcmus.edu.vn",
-    "score": 52
-  },
-  {
-    "no": 4,
-    "email": "2151120038@ut.edu.vn",
-    "score": 79
-  },
-  {
-    "no": 5,
-    "email": "21520398@gm.uit.edu.vn",
-    "score": 84
-  },
-  {
-    "no": 6,
-    "email": "21521862@gm.uit.edu.vn",
-    "score": 39
-  },
-  {
-    "no": 7,
-    "email": "21522305@gm.uit.edu.vn",
-    "score": 32
-  },
-  {
-    "no": 8,
-    "email": "2251120207@ut.edu.vn",
-    "score": 76
-  },
-  {
-    "no": 9,
-    "email": "22520454@gm.uit.edu.vn",
-    "score": 31
-  },
-  {
-    "no": 10,
-    "email": "22520533@gm.uit.edu.vn",
-    "score": 91
-  },
-  {
-    "no": 11,
-    "email": "22521376@gm.uit.edu.vn",
-    "score": 68
-  },
-  {
-    "no": 12,
-    "email": "23110207@student.hcmus.edu.vn",
-    "score": 15
-  },
-  {
-    "no": 13,
-    "email": "23120095@student.hcmus.edu.vn",
-    "score": 48
-  },
-  {
-    "no": 14,
-    "email": "23120146@student.hcmus.edu.vn",
-    "score": 66
-  },
-  {
-    "no": 15,
-    "email": "23120258@student.hcmus.edu.vn",
-    "score": 36
-  },
-  {
-    "no": 16,
-    "email": "23521770@gm.uit.edu.vn",
-    "score": 12
-  },
-  {
-    "no": 17,
-    "email": "a.kiet096@gmail.com",
-    "score": 91
-  },
-  {
-    "no": 18,
-    "email": "albertwin03@gmail.com",
     "score": 100
   },
   {
-    "no": 19,
-    "email": "amidateri@gmail.com",
-    "score": 32
+    "type": "SpringBoot",
+    "no": 2,
+    "email": "21110376@student.hcmus.edu.vn",
+    "score": 89
   },
   {
-    "no": 20,
-    "email": "anbuiii37@gmail.com",
-    "score": 77
+    "type": "SpringBoot",
+    "no": 3,
+    "email": "21520398@gm.uit.edu.vn",
+    "score": 94
   },
   {
-    "no": 21,
-    "email": "Andyle0215@gmail.com",
-    "score": 31
-  },
-  {
-    "no": 22,
-    "email": "anhnhatnguyen2103@gmail.com",
-    "score": 44
-  },
-  {
-    "no": 23,
-    "email": "anh.nt07082000@gmail.com",
-    "score": 53
-  },
-  {
-    "no": 24,
-    "email": "anhpn283@gmail.com",
-    "score": 66
-  },
-  {
-    "no": 25,
-    "email": "anhthtservice@gmail.com",
-    "score": 16
-  },
-  {
-    "no": 26,
-    "email": "anhtv331@gmail.com",
-    "score": 0
-  },
-  {
-    "no": 27,
-    "email": "anlam9614@gmail.com",
-    "score": 72
-  },
-  {
-    "no": 28,
-    "email": "ann1131909@gmail.com",
-    "score": 60
-  },
-  {
-    "no": 29,
-    "email": "bach.lecong02@gmail.com",
-    "score": 91
-  },
-  {
-    "no": 30,
-    "email": "bacnguyen1707@gmail.com",
-    "score": 18
-  },
-  {
-    "no": 31,
-    "email": "baobao22.work@gmail.com",
-    "score": 48
-  },
-  {
-    "no": 32,
-    "email": "baoduy.hmd@gmail.com",
+    "type": "SpringBoot",
+    "no": 4,
+    "email": "21521862@gm.uit.edu.vn",
     "score": 83
   },
   {
-    "no": 33,
-    "email": "bao.thaikhmt@hcmut.edu.vn",
-    "score": 20
+    "type": "SpringBoot",
+    "no": 5,
+    "email": "2251120207@ut.edu.vn",
+    "score": 100
   },
   {
-    "no": 34,
-    "email": "baotranthien999@gmail.com",
+    "type": "SpringBoot",
+    "no": 6,
+    "email": "22520533@gm.uit.edu.vn",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 7,
+    "email": "22521376@gm.uit.edu.vn",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 8,
+    "email": "23110207@student.hcmus.edu.vn",
+    "score": 68
+  },
+  {
+    "type": "SpringBoot",
+    "no": 9,
+    "email": "23120146@student.hcmus.edu.vn",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 10,
+    "email": "23521770@gm.uit.edu.vn",
     "score": 67
   },
   {
-    "no": 35,
+    "type": "SpringBoot",
+    "no": 11,
+    "email": "a.kiet096@gmail.com",
+    "score": 94
+  },
+  {
+    "type": "SpringBoot",
+    "no": 12,
+    "email": "anbuiii37@gmail.com",
+    "score": 83
+  },
+  {
+    "type": "SpringBoot",
+    "no": 13,
+    "email": "anhnhatnguyen2103@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 14,
+    "email": "anh.nt07082000@gmail.com",
+    "score": 94
+  },
+  {
+    "type": "SpringBoot",
+    "no": 15,
+    "email": "anhpn283@gmail.com",
+    "score": 81
+  },
+  {
+    "type": "SpringBoot",
+    "no": 16,
+    "email": "anlam9614@gmail.com",
+    "score": 90
+  },
+  {
+    "type": "SpringBoot",
+    "no": 17,
+    "email": "bach.lecong02@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 18,
+    "email": "baobao22.work@gmail.com",
+    "score": 71
+  },
+  {
+    "type": "SpringBoot",
+    "no": 19,
+    "email": "baoduy.hmd@gmail.com",
+    "score": 90
+  },
+  {
+    "type": "SpringBoot",
+    "no": 20,
+    "email": "baotranthien999@gmail.com",
+    "score": 94
+  },
+  {
+    "type": "SpringBoot",
+    "no": 21,
     "email": "ben.doantran@gmail.com",
-    "score": 59
+    "score": 90
   },
   {
-    "no": 36,
+    "type": "SpringBoot",
+    "no": 22,
     "email": "bichdao090202@gmail.com",
-    "score": 75
+    "score": 90
   },
   {
-    "no": 37,
-    "email": "bichhang.duong.3007@gmail.com",
-    "score": 0
-  },
-  {
-    "no": 38,
+    "type": "SpringBoot",
+    "no": 23,
     "email": "binbum07@yahoo.com.vn",
-    "score": 88
+    "score": 94
   },
   {
-    "no": 39,
-    "email": "builebichnhung123@gmail.com",
-    "score": 91
-  },
-  {
-    "no": 40,
+    "type": "SpringBoot",
+    "no": 24,
     "email": "buithaihoang04gl@gmail.com",
-    "score": 28
+    "score": 78
   },
   {
-    "no": 41,
-    "email": "bvquoc.dev@gmail.com",
-    "score": 100
-  },
-  {
-    "no": 42,
+    "type": "SpringBoot",
+    "no": 25,
     "email": "bynhnguyen203@gmail.com",
-    "score": 0
+    "score": 95
   },
   {
-    "no": 43,
+    "type": "SpringBoot",
+    "no": 26,
     "email": "caohieu2711@gmail.com",
-    "score": 76
+    "score": 90
   },
   {
-    "no": 44,
+    "type": "SpringBoot",
+    "no": 27,
     "email": "caovanhoang204@gmail.com",
-    "score": 32
+    "score": 89
   },
   {
-    "no": 45,
+    "type": "SpringBoot",
+    "no": 28,
     "email": "cautraicuong@gmail.com",
-    "score": 44
-  },
-  {
-    "no": 46,
-    "email": "chienspun@gmail.com",
-    "score": 8
-  },
-  {
-    "no": 47,
-    "email": "constantlypeaceinside@gmail.com",
-    "score": 84
-  },
-  {
-    "no": 48,
-    "email": "cuong.dq12897@sinhvien.hoasen.edu.vn",
-    "score": 84
-  },
-  {
-    "no": 49,
-    "email": "cuongngba7@gmail.com",
-    "score": 40
-  },
-  {
-    "no": 50,
-    "email": "cuong.ta14584@sinhvien.hoasen.edu.vn",
-    "score": 55
-  },
-  {
-    "no": 51,
-    "email": "daianhdung99@gmail.com",
-    "score": 32
-  },
-  {
-    "no": 52,
-    "email": "dal.1023vn@gmail.com",
-    "score": 30
-  },
-  {
-    "no": 53,
-    "email": "dananh05051993@gmail.com",
-    "score": 22
-  },
-  {
-    "no": 54,
-    "email": "danghungabt.bte@gmail.com",
-    "score": 59
-  },
-  {
-    "no": 55,
-    "email": "dangphuocthao.113@gmail.com",
-    "score": 100
-  },
-  {
-    "no": 56,
-    "email": "dangquyitt@gmail.com",
-    "score": 16
-  },
-  {
-    "no": 57,
-    "email": "dangthuong1067@gmail.com",
-    "score": 32
-  },
-  {
-    "no": 58,
-    "email": "dangtrunghieusg@gmail.com",
-    "score": 16
-  },
-  {
-    "no": 59,
-    "email": "danhson245203@gmail.com",
-    "score": 16
-  },
-  {
-    "no": 60,
-    "email": "daothanhthang856@gmail.com",
-    "score": 77
-  },
-  {
-    "no": 61,
-    "email": "datb2203549@student.ctu.edu.vn",
-    "score": 46
-  },
-  {
-    "no": 62,
-    "email": "datnguyen101004@gmail.com",
-    "score": 53
-  },
-  {
-    "no": 63,
-    "email": "dattt11062002@gmail.com",
-    "score": 75
-  },
-  {
-    "no": 64,
-    "email": "dbackspace.hust@gmail.com",
-    "score": 63
-  },
-  {
-    "no": 65,
-    "email": "dev.ndangduc.bn@gmail.com",
-    "score": 8
-  },
-  {
-    "no": 66,
-    "email": "dglegiau@gmail.com",
-    "score": 15
-  },
-  {
-    "no": 67,
-    "email": "dhsylam@gmail.com",
-    "score": 47
-  },
-  {
-    "no": 68,
-    "email": "dianawu1995rmit@gmail.com",
-    "score": 73
-  },
-  {
-    "no": 69,
-    "email": "diemvo.283201@gmail.com",
-    "score": 22
-  },
-  {
-    "no": 70,
-    "email": "dienthao131@gmail.com",
-    "score": 51
-  },
-  {
-    "no": 71,
-    "email": "dieulihn3009@gmail.com",
-    "score": 4
-  },
-  {
-    "no": 72,
-    "email": "dinhhuy230@gmail.com",
-    "score": 45
-  },
-  {
-    "no": 73,
-    "email": "dinhquyetthang1303@gmail.com",
-    "score": 75
-  },
-  {
-    "no": 74,
-    "email": "dinhthien150998@gmail.com",
-    "score": 59
-  },
-  {
-    "no": 75,
-    "email": "dinhtrungle2004@gmail.com",
-    "score": 44
-  },
-  {
-    "no": 76,
-    "email": "dkc1803@gmail.com",
-    "score": 52
-  },
-  {
-    "no": 77,
-    "email": "d.khuong0511@gmail.com",
-    "score": 96
-  },
-  {
-    "no": 78,
-    "email": "dlongminhtan@gmail.com",
-    "score": 69
-  },
-  {
-    "no": 79,
-    "email": "Dnsonanh@gmail.com",
-    "score": 84
-  },
-  {
-    "no": 80,
-    "email": "dnthang94@gmail.com",
-    "score": 0
-  },
-  {
-    "no": 81,
-    "email": "doanh.truongtdh@hcmut.edu.vn",
-    "score": 0
-  },
-  {
-    "no": 82,
-    "email": "doanphamanhtuan@gmail.com",
-    "score": 32
-  },
-  {
-    "no": 83,
-    "email": "dohieu210104@gmail.com",
-    "score": 69
-  },
-  {
-    "no": 84,
-    "email": "dominhtriet47@gmail.com",
-    "score": 56
-  },
-  {
-    "no": 85,
-    "email": "dophuongthao310@gmail.com",
-    "score": 72
-  },
-  {
-    "no": 86,
-    "email": "dqthang789@gmail.com",
-    "score": 70
-  },
-  {
-    "no": 87,
-    "email": "duc19052003@gmail.com",
-    "score": 52
-  },
-  {
-    "no": 88,
-    "email": "ductan365@gmail.com",
-    "score": 64
-  },
-  {
-    "no": 89,
-    "email": "duc.tm1359@sinhvien.hoasen.edu.vn",
-    "score": 24
-  },
-  {
-    "no": 90,
-    "email": "ductuancdt1k5@gmail.com",
-    "score": 84
-  },
-  {
-    "no": 91,
-    "email": "duonggiabao12082005@gmail.com",
-    "score": 0
-  },
-  {
-    "no": 92,
-    "email": "Duonghb1577@gmail.com",
-    "score": 52
-  },
-  {
-    "no": 93,
-    "email": "duonghoangdinh0804@gmail.com",
-    "score": 43
-  },
-  {
-    "no": 94,
-    "email": "duongnghia2904204@gmail.com",
-    "score": 43
-  },
-  {
-    "no": 95,
-    "email": "duongnvl21@uef.edu.vn",
-    "score": 30
-  },
-  {
-    "no": 96,
-    "email": "duongquangdong1008@gmail.com",
-    "score": 79
-  },
-  {
-    "no": 97,
-    "email": "duongquochau.developer@gmail.com",
-    "score": 40
-  },
-  {
-    "no": 98,
-    "email": "duongsong2002@gmail.com",
-    "score": 66
-  },
-  {
-    "no": 99,
-    "email": "duongthuynguyen5@gmail.com",
-    "score": 75
-  },
-  {
-    "no": 100,
-    "email": "duyanh41511@gmail.com",
-    "score": 36
-  },
-  {
-    "no": 101,
-    "email": "duyhi1654@gmail.com",
-    "score": 12
-  },
-  {
-    "no": 102,
-    "email": "duykhang.sunext@gmail.com",
-    "score": 91
-  },
-  {
-    "no": 103,
-    "email": "Duylinh1231@gmail.com",
-    "score": 57
-  },
-  {
-    "no": 104,
-    "email": "duypr.7887@gmail.com",
-    "score": 0
-  },
-  {
-    "no": 105,
-    "email": "duytranthanh1205@gmail.com",
-    "score": 100
-  },
-  {
-    "no": 106,
-    "email": "dvnguyentrong96@gmail.com",
-    "score": 52
-  },
-  {
-    "no": 107,
-    "email": "dynlinh222@gmail.com",
-    "score": 59
-  },
-  {
-    "no": 108,
-    "email": "fidoublenn@gmail.com",
-    "score": 60
-  },
-  {
-    "no": 109,
-    "email": "front.cuong@gmail.com",
-    "score": 75
-  },
-  {
-    "no": 110,
-    "email": "giabao032002@gmail.com",
-    "score": 40
-  },
-  {
-    "no": 111,
-    "email": "giahuytran36st@gmail.com",
-    "score": 56
-  },
-  {
-    "no": 112,
-    "email": "haidao201005@gmail.com",
-    "score": 24
-  },
-  {
-    "no": 113,
-    "email": "haiduonghien10@gmail.com",
-    "score": 16
-  },
-  {
-    "no": 114,
-    "email": "hao510duong@gmail.com",
-    "score": 46
-  },
-  {
-    "no": 115,
-    "email": "haotran04022005@gmail.com",
-    "score": 100
-  },
-  {
-    "no": 116,
-    "email": "haquocbao607@gmail.com",
-    "score": 59
-  },
-  {
-    "no": 117,
-    "email": "hhman240602@gmail.com",
-    "score": 23
-  },
-  {
-    "no": 118,
-    "email": "hien.mc08569@sinhvien.hoasen.edu.vn",
-    "score": 44
-  },
-  {
-    "no": 119,
-    "email": "hiep.thai2307@gmail.com",
-    "score": 53
-  },
-  {
-    "no": 120,
-    "email": "hieuedocrkh@gmail.com",
-    "score": 49
-  },
-  {
-    "no": 121,
-    "email": "hihuunguyen@gmail.com",
-    "score": 84
-  },
-  {
-    "no": 122,
-    "email": "hinhnhandoden@gmail.com",
-    "score": 23
-  },
-  {
-    "no": 123,
-    "email": "hl.trithanh@gmail.com",
-    "score": 0
-  },
-  {
-    "no": 124,
-    "email": "hoainguyen2214@gmail.com",
-    "score": 36
-  },
-  {
-    "no": 125,
-    "email": "hoaithanhtrinh2002@gmail.com",
-    "score": 91
-  },
-  {
-    "no": 126,
-    "email": "hoanganh0610.work@gmail.com",
-    "score": 38
-  },
-  {
-    "no": 127,
-    "email": "hoangcam2110@gmail.com",
-    "score": 40
-  },
-  {
-    "no": 128,
-    "email": "hoangdinh10082005@gmail.com",
-    "score": 8
-  },
-  {
-    "no": 129,
-    "email": "hoanglethanhtung123@gmail.com",
-    "score": 36
-  },
-  {
-    "no": 130,
-    "email": "hoangnguyenn268@gmail.com",
-    "score": 77
-  },
-  {
-    "no": 131,
-    "email": "hoangnhan20192@gmail.com",
-    "score": 75
-  },
-  {
-    "no": 132,
-    "email": "hoangphamlol456@gmail.com",
-    "score": 16
-  },
-  {
-    "no": 133,
-    "email": "Hoangphocuong@gmail.com",
-    "score": 56
-  },
-  {
-    "no": 134,
-    "email": "hoangphuc28071998@gmail.com",
-    "score": 57
-  },
-  {
-    "no": 135,
-    "email": "hoangpk2904@gmail.com",
-    "score": 40
-  },
-  {
-    "no": 136,
-    "email": "hoangt52369@gmail.com",
-    "score": 75
-  },
-  {
-    "no": 137,
-    "email": "hoangthanhnhat0411@gmail.com",
-    "score": 60
-  },
-  {
-    "no": 138,
-    "email": "hoangvanquy0607@gmail.com",
-    "score": 68
-  },
-  {
-    "no": 139,
-    "email": "hochitai24@gmail.com",
-    "score": 70
-  },
-  {
-    "no": 140,
-    "email": "hongdanh.itnet@gmail.com",
     "score": 82
   },
   {
-    "no": 141,
-    "email": "honghongduc0102@gmail.com",
-    "score": 59
+    "type": "SpringBoot",
+    "no": 29,
+    "email": "Chinhvip9@gmail.com",
+    "score": 89
   },
   {
-    "no": 142,
-    "email": "hong.nguyen.6334@gmail.com",
-    "score": 0
+    "type": "SpringBoot",
+    "no": 30,
+    "email": "cuong.dq12897@sinhvien.hoasen.edu.vn",
+    "score": 95
   },
   {
-    "no": 143,
-    "email": "hotronghai2306@gmail.com",
+    "type": "SpringBoot",
+    "no": 31,
+    "email": "cuongngba7@gmail.com",
+    "score": 90
+  },
+  {
+    "type": "SpringBoot",
+    "no": 32,
+    "email": "cuong.ta14584@sinhvien.hoasen.edu.vn",
+    "score": 85
+  },
+  {
+    "type": "SpringBoot",
+    "no": 33,
+    "email": "daianhdung99@gmail.com",
+    "score": 94
+  },
+  {
+    "type": "SpringBoot",
+    "no": 34,
+    "email": "dananh05051993@gmail.com",
+    "score": 89
+  },
+  {
+    "type": "SpringBoot",
+    "no": 35,
+    "email": "dangphuocthao.113@gmail.com",
+    "score": 86
+  },
+  {
+    "type": "SpringBoot",
+    "no": 36,
+    "email": "dangquyitt@gmail.com",
     "score": 100
   },
   {
-    "no": 144,
-    "email": "ht.ductien@gmail.com",
-    "score": 41
-  },
-  {
-    "no": 145,
-    "email": "h.thuy7605@gmail.com",
-    "score": 52
-  },
-  {
-    "no": 146,
-    "email": "huan.nguyen2114@gmail.com",
-    "score": 51
-  },
-  {
-    "no": 147,
-    "email": "hungkt111@gmail.com",
-    "score": 56
-  },
-  {
-    "no": 148,
-    "email": "hung.nguyen100904@hcmut.edu.vn",
-    "score": 64
-  },
-  {
-    "no": 149,
-    "email": "hungphan.bethel@gmail.com",
-    "score": 68
-  },
-  {
-    "no": 150,
-    "email": "hungtaithe12@gmail.com",
-    "score": 36
-  },
-  {
-    "no": 151,
-    "email": "hung.vo2003vn@gmail.com",
-    "score": 55
-  },
-  {
-    "no": 152,
-    "email": "hungvu19061991@gmail.com",
-    "score": 16
-  },
-  {
-    "no": 153,
-    "email": "huudangthcscatchanh@gmail.com",
-    "score": 93
-  },
-  {
-    "no": 154,
-    "email": "huuhungiu17031@gmail.com",
-    "score": 43
-  },
-  {
-    "no": 155,
-    "email": "huuhuy1909@gmail.com",
-    "score": 77
-  },
-  {
-    "no": 156,
-    "email": "huuquyle9@gmail.com",
-    "score": 49
-  },
-  {
-    "no": 157,
-    "email": "huuthi12072003@gmail.com",
-    "score": 32
-  },
-  {
-    "no": 158,
-    "email": "huutn212002@gmail.com",
-    "score": 31
-  },
-  {
-    "no": 159,
-    "email": "huy13789@gmail.com",
-    "score": 68
-  },
-  {
-    "no": 160,
-    "email": "huybu2003@gmail.com",
-    "score": 24
-  },
-  {
-    "no": 161,
-    "email": "huydq222@uef.edu.vn",
-    "score": 55
-  },
-  {
-    "no": 162,
-    "email": "huyhoangphamnguyen1@gmail.com",
-    "score": 20
-  },
-  {
-    "no": 163,
-    "email": "huyiscoding@gmail.com",
-    "score": 91
-  },
-  {
-    "no": 164,
-    "email": "huymanhjk@gmail.com",
-    "score": 8
-  },
-  {
-    "no": 165,
-    "email": "huy.nguyenkhackhanh@hcmut.edu.vn",
-    "score": 75
-  },
-  {
-    "no": 166,
-    "email": "huynhlytankhoa@gmail.com",
-    "score": 75
-  },
-  {
-    "no": 167,
-    "email": "huynhnhatduy1824@gmail.com",
-    "score": 54
-  },
-  {
-    "no": 168,
-    "email": "huynhthinh0205@gmail.com",
-    "score": 39
-  },
-  {
-    "no": 169,
-    "email": "huynhtrungthuan2004@gmail.com",
-    "score": 91
-  },
-  {
-    "no": 170,
-    "email": "huypg221@uef.edu.vn",
-    "score": 59
-  },
-  {
-    "no": 171,
-    "email": "huytemp01@gmail.com",
-    "score": 75
-  },
-  {
-    "no": 172,
-    "email": "huythien9019@gmail.com",
-    "score": 30
-  },
-  {
-    "no": 173,
-    "email": "huytruongminh44@gmail.com",
-    "score": 40
-  },
-  {
-    "no": 174,
-    "email": "huy.vonguyengia@hcmut.edu.vn",
-    "score": 55
-  },
-  {
-    "no": 175,
-    "email": "Huy.vt00578@sinhvien.hoasen.edu.vn",
-    "score": 48
-  },
-  {
-    "no": 176,
-    "email": "hvd31012005@gmail.com",
-    "score": 12
-  },
-  {
-    "no": 177,
-    "email": "hyundev1406@gmail.com",
-    "score": 39
-  },
-  {
-    "no": 178,
-    "email": "iantuandoan@gmail.com",
-    "score": 20
-  },
-  {
-    "no": 179,
-    "email": "idawn9418@gmail.com",
-    "score": 0
-  },
-  {
-    "no": 180,
-    "email": "info.dongocquang@gmail.com",
-    "score": 31
-  },
-  {
-    "no": 181,
-    "email": "it.manhlt@gmail.com",
-    "score": 31
-  },
-  {
-    "no": 182,
-    "email": "Jary.le.201@gmail.com",
-    "score": 11
-  },
-  {
-    "no": 183,
-    "email": "jaycedtp@gmail.com",
+    "type": "SpringBoot",
+    "no": 37,
+    "email": "dangthuong1067@gmail.com",
     "score": 100
   },
   {
-    "no": 184,
-    "email": "kaishinki123@gmail.com",
-    "score": 47
+    "type": "SpringBoot",
+    "no": 38,
+    "email": "dangtrunghieusg@gmail.com",
+    "score": 95
   },
   {
-    "no": 185,
-    "email": "kay.nttl@gmail.com",
-    "score": 8
+    "type": "SpringBoot",
+    "no": 39,
+    "email": "danhson245203@gmail.com",
+    "score": 83
   },
   {
-    "no": 186,
-    "email": "kbao040@gmail.com",
-    "score": 59
-  },
-  {
-    "no": 187,
-    "email": "kctan191@gmail.com",
-    "score": 92
-  },
-  {
-    "no": 188,
-    "email": "kdqt2003@gmail.com",
-    "score": 40
-  },
-  {
-    "no": 189,
-    "email": "khaibui0402@gmail.com",
-    "score": 52
-  },
-  {
-    "no": 190,
-    "email": "khaisx99@gmail.com",
-    "score": 52
-  },
-  {
-    "no": 191,
-    "email": "khai.th06514@sinhvien.hoasen.edu.vn",
-    "score": 55
-  },
-  {
-    "no": 192,
-    "email": "khangkhangbl@gmail.com",
-    "score": 35
-  },
-  {
-    "no": 193,
-    "email": "khangnguyenthanh@outlook.com",
-    "score": 100
-  },
-  {
-    "no": 194,
-    "email": "khoilt.work@gmail.com",
-    "score": 32
-  },
-  {
-    "no": 195,
-    "email": "khoingo2003@gmail.com",
-    "score": 91
-  },
-  {
-    "no": 196,
-    "email": "khoi.nm06110@sinhvien.hoasen.edu.vn",
-    "score": 27
-  },
-  {
-    "no": 197,
-    "email": "kiet29072002@gmail.com",
-    "score": 54
-  },
-  {
-    "no": 198,
-    "email": "kietluuhoanganh@gmail.com",
-    "score": 57
-  },
-  {
-    "no": 199,
-    "email": "kieutho4416@gmail.com",
-    "score": 76
-  },
-  {
-    "no": 200,
-    "email": "Kieuvankhang@gmail.com",
-    "score": 12
-  },
-  {
-    "no": 201,
-    "email": "kimngan040201@gmail.com",
-    "score": 31
-  },
-  {
-    "no": 202,
-    "email": "kimngan21012003@gmail.com",
-    "score": 61
-  },
-  {
-    "no": 203,
-    "email": "kimngoctrung46@gmail.com",
-    "score": 44
-  },
-  {
-    "no": 204,
-    "email": "kimphuong09032004@gmail.com",
-    "score": 44
-  },
-  {
-    "no": 205,
-    "email": "kimthien128@gmail.com",
-    "score": 59
-  },
-  {
-    "no": 206,
-    "email": "koongchanphong0712@gmail.com",
-    "score": 36
-  },
-  {
-    "no": 207,
-    "email": "kozaxlh@gmail.com",
-    "score": 47
-  },
-  {
-    "no": 208,
-    "email": "kyeongwook.ma@gmail.com",
-    "score": 0
-  },
-  {
-    "no": 209,
-    "email": "lambaotoan03@gmail.com",
-    "score": 60
-  },
-  {
-    "no": 210,
-    "email": "lamhainguyen05@gmail.com",
+    "type": "SpringBoot",
+    "no": 40,
+    "email": "datb2203549@student.ctu.edu.vn",
     "score": 88
   },
   {
-    "no": 211,
+    "type": "SpringBoot",
+    "no": 41,
+    "email": "datnguyen101004@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 42,
+    "email": "dattt11062002@gmail.com",
+    "score": 94
+  },
+  {
+    "type": "SpringBoot",
+    "no": 43,
+    "email": "datttse172775@fpt.edu.vn",
+    "score": 69
+  },
+  {
+    "type": "SpringBoot",
+    "no": 44,
+    "email": "dbackspace.hust@gmail.com",
+    "score": 90
+  },
+  {
+    "type": "SpringBoot",
+    "no": 45,
+    "email": "dev.ndangduc.bn@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 46,
+    "email": "dianawu1995rmit@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 47,
+    "email": "dieulihn3009@gmail.com",
+    "score": 84
+  },
+  {
+    "type": "SpringBoot",
+    "no": 48,
+    "email": "dinhhuy230@gmail.com",
+    "score": 89
+  },
+  {
+    "type": "SpringBoot",
+    "no": 49,
+    "email": "dinhthien150998@gmail.com",
+    "score": 90
+  },
+  {
+    "type": "SpringBoot",
+    "no": 50,
+    "email": "dinhtrungle2004@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 51,
+    "email": "d.khuong0511@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 52,
+    "email": "dlongminhtan@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 53,
+    "email": "Dnsonanh@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 54,
+    "email": "dohieu210104@gmail.com",
+    "score": 84
+  },
+  {
+    "type": "SpringBoot",
+    "no": 55,
+    "email": "dohuy22314@gmail.com",
+    "score": 68
+  },
+  {
+    "type": "SpringBoot",
+    "no": 56,
+    "email": "dominhtriet47@gmail.com",
+    "score": 89
+  },
+  {
+    "type": "SpringBoot",
+    "no": 57,
+    "email": "dophuongthao310@gmail.com",
+    "score": 89
+  },
+  {
+    "type": "SpringBoot",
+    "no": 58,
+    "email": "dqthang789@gmail.com",
+    "score": 89
+  },
+  {
+    "type": "SpringBoot",
+    "no": 59,
+    "email": "duc19052003@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 60,
+    "email": "ductan365@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 61,
+    "email": "duc.tm1359@sinhvien.hoasen.edu.vn",
+    "score": 84
+  },
+  {
+    "type": "SpringBoot",
+    "no": 62,
+    "email": "Duonghb1577@gmail.com",
+    "score": 83
+  },
+  {
+    "type": "SpringBoot",
+    "no": 63,
+    "email": "duonghoangdinh0804@gmail.com",
+    "score": 12
+  },
+  {
+    "type": "SpringBoot",
+    "no": 64,
+    "email": "duongnghia2904204@gmail.com",
+    "score": 88
+  },
+  {
+    "type": "SpringBoot",
+    "no": 65,
+    "email": "duongquangdong1008@gmail.com",
+    "score": 83
+  },
+  {
+    "type": "SpringBoot",
+    "no": 66,
+    "email": "duongthuynguyen5@gmail.com",
+    "score": 86
+  },
+  {
+    "type": "SpringBoot",
+    "no": 67,
+    "email": "duyanh41511@gmail.com",
+    "score": 90
+  },
+  {
+    "type": "SpringBoot",
+    "no": 68,
+    "email": "duykhang.sunext@gmail.com",
+    "score": 84
+  },
+  {
+    "type": "SpringBoot",
+    "no": 69,
+    "email": "Duylinh1231@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 70,
+    "email": "duytranthanh1205@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 71,
+    "email": "dvnguyentrong96@gmail.com",
+    "score": 90
+  },
+  {
+    "type": "SpringBoot",
+    "no": 72,
+    "email": "dynlinh222@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 73,
+    "email": "front.cuong@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 74,
+    "email": "giabao032002@gmail.com",
+    "score": 94
+  },
+  {
+    "type": "SpringBoot",
+    "no": 75,
+    "email": "giahuytran36st@gmail.com",
+    "score": 84
+  },
+  {
+    "type": "SpringBoot",
+    "no": 76,
+    "email": "haidao201005@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 77,
+    "email": "haiduonghien10@gmail.com",
+    "score": 84
+  },
+  {
+    "type": "SpringBoot",
+    "no": 78,
+    "email": "haquocbao607@gmail.com",
+    "score": 89
+  },
+  {
+    "type": "SpringBoot",
+    "no": 79,
+    "email": "hhman240602@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 80,
+    "email": "hien.mc08569@sinhvien.hoasen.edu.vn",
+    "score": 88
+  },
+  {
+    "type": "SpringBoot",
+    "no": 81,
+    "email": "hiep.thai2307@gmail.com",
+    "score": 89
+  },
+  {
+    "type": "SpringBoot",
+    "no": 82,
+    "email": "hieuedocrkh@gmail.com",
+    "score": 67
+  },
+  {
+    "type": "SpringBoot",
+    "no": 83,
+    "email": "hihuunguyen@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 84,
+    "email": "hinhnhandoden@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 85,
+    "email": "hl.trithanh@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 86,
+    "email": "hoainguyen2214@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 87,
+    "email": "hoaithanhtrinh2002@gmail.com",
+    "score": 90
+  },
+  {
+    "type": "SpringBoot",
+    "no": 88,
+    "email": "hoanganh0610.work@gmail.com",
+    "score": 89
+  },
+  {
+    "type": "SpringBoot",
+    "no": 89,
+    "email": "hoangcam2110@gmail.com",
+    "score": 89
+  },
+  {
+    "type": "SpringBoot",
+    "no": 90,
+    "email": "hoanglethanhtung123@gmail.com",
+    "score": 94
+  },
+  {
+    "type": "SpringBoot",
+    "no": 91,
+    "email": "Hoangphocuong@gmail.com",
+    "score": 94
+  },
+  {
+    "type": "SpringBoot",
+    "no": 92,
+    "email": "hoangphuc28071998@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 93,
+    "email": "hoangpk2904@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 94,
+    "email": "hoangt52369@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 95,
+    "email": "hoangthanhnhat0411@gmail.com",
+    "score": 94
+  },
+  {
+    "type": "SpringBoot",
+    "no": 96,
+    "email": "hoangvanquy0607@gmail.com",
+    "score": 94
+  },
+  {
+    "type": "SpringBoot",
+    "no": 97,
+    "email": "hochitai24@gmail.com",
+    "score": 89
+  },
+  {
+    "type": "SpringBoot",
+    "no": 98,
+    "email": "hongdanh.itnet@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 99,
+    "email": "hong.nguyen.6334@gmail.com",
+    "score": 94
+  },
+  {
+    "type": "SpringBoot",
+    "no": 100,
+    "email": "hotronghai2306@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 101,
+    "email": "h.thuy7605@gmail.com",
+    "score": 94
+  },
+  {
+    "type": "SpringBoot",
+    "no": 102,
+    "email": "hungkt111@gmail.com",
+    "score": 89
+  },
+  {
+    "type": "SpringBoot",
+    "no": 103,
+    "email": "hung.nguyen100904@hcmut.edu.vn",
+    "score": 89
+  },
+  {
+    "type": "SpringBoot",
+    "no": 104,
+    "email": "hungphan.bethel@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 105,
+    "email": "hung.vo2003vn@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 106,
+    "email": "huudangthcscatchanh@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 107,
+    "email": "huuhungiu17031@gmail.com",
+    "score": 94
+  },
+  {
+    "type": "SpringBoot",
+    "no": 108,
+    "email": "huuhuy1909@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 109,
+    "email": "huuthi12072003@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 110,
+    "email": "huutn212002@gmail.com",
+    "score": 74
+  },
+  {
+    "type": "SpringBoot",
+    "no": 111,
+    "email": "huy13789@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 112,
+    "email": "huydq222@uef.edu.vn",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 113,
+    "email": "huyiscoding@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 114,
+    "email": "huymanhjk@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 115,
+    "email": "huy.nguyenkhackhanh@hcmut.edu.vn",
+    "score": 89
+  },
+  {
+    "type": "SpringBoot",
+    "no": 116,
+    "email": "huynhnhatduy1824@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 117,
+    "email": "huynhthinh0205@gmail.com",
+    "score": 82
+  },
+  {
+    "type": "SpringBoot",
+    "no": 118,
+    "email": "huynhtrungthuan2004@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 119,
+    "email": "huypg221@uef.edu.vn",
+    "score": 90
+  },
+  {
+    "type": "SpringBoot",
+    "no": 120,
+    "email": "huytemp01@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 121,
+    "email": "huythien9019@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 122,
+    "email": "huytruongminh44@gmail.com",
+    "score": 89
+  },
+  {
+    "type": "SpringBoot",
+    "no": 123,
+    "email": "huy.vonguyengia@hcmut.edu.vn",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 124,
+    "email": "Huy.vt00578@sinhvien.hoasen.edu.vn",
+    "score": 94
+  },
+  {
+    "type": "SpringBoot",
+    "no": 125,
+    "email": "hvd31012005@gmail.com",
+    "score": 77
+  },
+  {
+    "type": "SpringBoot",
+    "no": 126,
+    "email": "hyundev1406@gmail.com",
+    "score": 78
+  },
+  {
+    "type": "SpringBoot",
+    "no": 127,
+    "email": "iantuandoan@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 128,
+    "email": "Jary.le.201@gmail.com",
+    "score": 90
+  },
+  {
+    "type": "SpringBoot",
+    "no": 129,
+    "email": "jaycedtp@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 130,
+    "email": "kay.nttl@gmail.com",
+    "score": 90
+  },
+  {
+    "type": "SpringBoot",
+    "no": 131,
+    "email": "kbao040@gmail.com",
+    "score": 89
+  },
+  {
+    "type": "SpringBoot",
+    "no": 132,
+    "email": "khaibui0402@gmail.com",
+    "score": 89
+  },
+  {
+    "type": "SpringBoot",
+    "no": 133,
+    "email": "khaisx99@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 134,
+    "email": "khai.th06514@sinhvien.hoasen.edu.vn",
+    "score": 70
+  },
+  {
+    "type": "SpringBoot",
+    "no": 135,
+    "email": "khangkhangbl@gmail.com",
+    "score": 88
+  },
+  {
+    "type": "SpringBoot",
+    "no": 136,
+    "email": "khangnguyenthanh@outlook.com",
+    "score": 90
+  },
+  {
+    "type": "SpringBoot",
+    "no": 137,
+    "email": "khoilt.work@gmail.com",
+    "score": 89
+  },
+  {
+    "type": "SpringBoot",
+    "no": 138,
+    "email": "khoi.nm06110@sinhvien.hoasen.edu.vn",
+    "score": 89
+  },
+  {
+    "type": "SpringBoot",
+    "no": 139,
+    "email": "kientruc582@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 140,
+    "email": "kiet29072002@gmail.com",
+    "score": 71
+  },
+  {
+    "type": "SpringBoot",
+    "no": 141,
+    "email": "kietluuhoanganh@gmail.com",
+    "score": 84
+  },
+  {
+    "type": "SpringBoot",
+    "no": 142,
+    "email": "kieutho4416@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 143,
+    "email": "kimngan21012003@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 144,
+    "email": "kimngoctrung46@gmail.com",
+    "score": 89
+  },
+  {
+    "type": "SpringBoot",
+    "no": 145,
+    "email": "kimphuong09032004@gmail.com",
+    "score": 84
+  },
+  {
+    "type": "SpringBoot",
+    "no": 146,
+    "email": "kimthien128@gmail.com",
+    "score": 84
+  },
+  {
+    "type": "SpringBoot",
+    "no": 147,
+    "email": "koongchanphong0712@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 148,
+    "email": "kyeongwook.ma@gmail.com",
+    "score": 16
+  },
+  {
+    "type": "SpringBoot",
+    "no": 149,
+    "email": "lamhainguyen05@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 150,
     "email": "lamtuanhuy1805@gmail.com",
     "score": 100
   },
   {
-    "no": 212,
+    "type": "SpringBoot",
+    "no": 151,
     "email": "le2960620@gmail.com",
-    "score": 84
+    "score": 95
   },
   {
-    "no": 213,
-    "email": "leanhtrung97@gmail.com",
-    "score": 66
-  },
-  {
-    "no": 214,
+    "type": "SpringBoot",
+    "no": 152,
     "email": "lechikhiem203@gmail.com",
-    "score": 43
+    "score": 88
   },
   {
-    "no": 215,
+    "type": "SpringBoot",
+    "no": 153,
     "email": "lehaiau15042003@gmail.com",
-    "score": 47
+    "score": 95
   },
   {
-    "no": 216,
+    "type": "SpringBoot",
+    "no": 154,
     "email": "lehoangngocthoi01@gmail.com",
-    "score": 48
+    "score": 78
   },
   {
-    "no": 217,
-    "email": "lehongthanhvy@gmail.com",
-    "score": 64
-  },
-  {
-    "no": 218,
+    "type": "SpringBoot",
+    "no": 155,
     "email": "lehuynhthanhngan3005@gmail.com",
-    "score": 66
+    "score": 94
   },
   {
-    "no": 219,
-    "email": "leminhbao.iuh@gmail.com",
-    "score": 8
-  },
-  {
-    "no": 220,
+    "type": "SpringBoot",
+    "no": 156,
     "email": "lenhut0929@gmail.com",
+    "score": 91
+  },
+  {
+    "type": "SpringBoot",
+    "no": 157,
+    "email": "lephuhaotech1124@gmail.com",
     "score": 100
   },
   {
-    "no": 221,
-    "email": "lephuhaotech1124@gmail.com",
-    "score": 79
-  },
-  {
-    "no": 222,
-    "email": "Letankhoa0708@gmail.com",
-    "score": 28
-  },
-  {
-    "no": 223,
-    "email": "lethuytuyetmy@gmail.com",
-    "score": 44
-  },
-  {
-    "no": 224,
+    "type": "SpringBoot",
+    "no": 158,
     "email": "letienthanh030604@gmail.com",
-    "score": 66
+    "score": 100
   },
   {
-    "no": 225,
-    "email": "letrongducanh456@gmail.com",
-    "score": 63
-  },
-  {
-    "no": 226,
+    "type": "SpringBoot",
+    "no": 159,
     "email": "letrongthien23032003@gmail.com",
-    "score": 67
+    "score": 90
   },
   {
-    "no": 227,
+    "type": "SpringBoot",
+    "no": 160,
     "email": "letuanquang1996@gmail.com",
-    "score": 31
+    "score": 88
   },
   {
-    "no": 228,
+    "type": "SpringBoot",
+    "no": 161,
     "email": "linhtrang233@gmail.com",
-    "score": 84
+    "score": 95
   },
   {
-    "no": 229,
+    "type": "SpringBoot",
+    "no": 162,
     "email": "lmnhn995@gmail.com",
-    "score": 70
+    "score": 89
   },
   {
-    "no": 230,
-    "email": "locn562836@gmail.com",
-    "score": 37
-  },
-  {
-    "no": 231,
+    "type": "SpringBoot",
+    "no": 163,
     "email": "longluong2909@gmail.com",
-    "score": 68
+    "score": 90
   },
   {
-    "no": 232,
+    "type": "SpringBoot",
+    "no": 164,
     "email": "Longnguyenhoang1101.work@gmail.com",
-    "score": 38
+    "score": 95
   },
   {
-    "no": 233,
+    "type": "SpringBoot",
+    "no": 165,
     "email": "longnt@dhv.edu.vn",
-    "score": 44
+    "score": 95
   },
   {
-    "no": 234,
-    "email": "lonhattan007@gmail.com",
-    "score": 39
-  },
-  {
-    "no": 235,
+    "type": "SpringBoot",
+    "no": 166,
     "email": "lpthanh710@gmail.com",
-    "score": 63
+    "score": 95
   },
   {
-    "no": 236,
+    "type": "SpringBoot",
+    "no": 167,
     "email": "lthchi1608@gmail.com",
-    "score": 67
+    "score": 90
   },
   {
-    "no": 237,
+    "type": "SpringBoot",
+    "no": 168,
     "email": "ltmyhau@gmail.com",
-    "score": 8
+    "score": 89
   },
   {
-    "no": 238,
-    "email": "luathoang.31211023120@st.ueh.edu.vn",
-    "score": 91
-  },
-  {
-    "no": 239,
+    "type": "SpringBoot",
+    "no": 169,
     "email": "luthien5921@gmail.com",
-    "score": 48
+    "score": 78
   },
   {
-    "no": 240,
+    "type": "SpringBoot",
+    "no": 170,
     "email": "lvhthanh1708@gmail.com",
-    "score": 74
+    "score": 100
   },
   {
-    "no": 241,
+    "type": "SpringBoot",
+    "no": 171,
     "email": "lyphuc823@gmail.com",
-    "score": 66
+    "score": 95
   },
   {
-    "no": 242,
+    "type": "SpringBoot",
+    "no": 172,
     "email": "mainhatminhct1910@gmail.com",
-    "score": 42
+    "score": 100
   },
   {
-    "no": 243,
-    "email": "maiphuc455@gmail.com",
-    "score": 38
-  },
-  {
-    "no": 244,
-    "email": "maivantrongnghia.it@gmail.com",
-    "score": 44
-  },
-  {
-    "no": 245,
-    "email": "manhdd2211@gmail.com",
-    "score": 75
-  },
-  {
-    "no": 246,
-    "email": "manhhung211.hcmus@gmail.com",
-    "score": 7
-  },
-  {
-    "no": 247,
+    "type": "SpringBoot",
+    "no": 173,
     "email": "manhminh2601@gmail.com",
-    "score": 91
+    "score": 95
   },
   {
-    "no": 248,
+    "type": "SpringBoot",
+    "no": 174,
     "email": "matnahuhu1998@gmail.com",
-    "score": 36
+    "score": 96
   },
   {
-    "no": 249,
+    "type": "SpringBoot",
+    "no": 175,
     "email": "mhhung0811@gmail.com",
-    "score": 28
+    "score": 100
   },
   {
-    "no": 250,
-    "email": "minh12a1hermann@gmail.com",
+    "type": "SpringBoot",
+    "no": 176,
+    "email": "minhhang171099@gmail.com",
+    "score": 83
+  },
+  {
+    "type": "SpringBoot",
+    "no": 177,
+    "email": "mtbinhitus@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 178,
+    "email": "n1.amber3003@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 179,
+    "email": "namnguyen2301@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 180,
+    "email": "nampn21@uef.edu.vn",
+    "score": 90
+  },
+  {
+    "type": "SpringBoot",
+    "no": 181,
+    "email": "namstich@gmail.com",
     "score": 0
   },
   {
-    "no": 251,
-    "email": "minhhang171099@gmail.com",
-    "score": 38
+    "type": "SpringBoot",
+    "no": 182,
+    "email": "nduykhanh650@gmail.com",
+    "score": 100
   },
   {
-    "no": 252,
-    "email": "minhnt12092003@gmail.com",
-    "score": 91
+    "type": "SpringBoot",
+    "no": 183,
+    "email": "nethaivl19t4@gmail.com",
+    "score": 100
   },
   {
-    "no": 253,
-    "email": "minhthien16111996@gmail.com",
+    "type": "SpringBoot",
+    "no": 184,
+    "email": "ngatrinh.200599@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 185,
+    "email": "ngocit26@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 186,
+    "email": "ngoclong2663@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 187,
+    "email": "ngoc.ngo22112004@hcmut.edu.vn",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 188,
+    "email": "ngoctuan6012020@gmail.com",
+    "score": 90
+  },
+  {
+    "type": "SpringBoot",
+    "no": 189,
+    "email": "ngonguyenducmanh@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 190,
+    "email": "ngotanhung02011999@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 191,
+    "email": "ngovan960@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 192,
+    "email": "nguenductoan2003@gmail.com",
+    "score": 30
+  },
+  {
+    "type": "SpringBoot",
+    "no": 193,
+    "email": "nguyenchungvan.t1.15cla@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 194,
+    "email": "nguyenddqui@gmail.com",
+    "score": 89
+  },
+  {
+    "type": "SpringBoot",
+    "no": 195,
+    "email": "nguyenducloc7701@gmail.com",
+    "score": 89
+  },
+  {
+    "type": "SpringBoot",
+    "no": 196,
+    "email": "nguyenduykhanh1820@gmail.com",
+    "score": 90
+  },
+  {
+    "type": "SpringBoot",
+    "no": 197,
+    "email": "nguyenhavietanh2503@gmail.com",
+    "score": 89
+  },
+  {
+    "type": "SpringBoot",
+    "no": 198,
+    "email": "nguyenhoangbao2901@gmail.com",
+    "score": 94
+  },
+  {
+    "type": "SpringBoot",
+    "no": 199,
+    "email": "nguyenhoanghieu15102004@gmail.com",
+    "score": 86
+  },
+  {
+    "type": "SpringBoot",
+    "no": 200,
+    "email": "nguyenhotruongson1234@gmail.com",
+    "score": 89
+  },
+  {
+    "type": "SpringBoot",
+    "no": 201,
+    "email": "nguyenhuuhung2610@gmail.com",
+    "score": 96
+  },
+  {
+    "type": "SpringBoot",
+    "no": 202,
+    "email": "nguyenhuuthiet01012002@gmail.com",
+    "score": 73
+  },
+  {
+    "type": "SpringBoot",
+    "no": 203,
+    "email": "nguyenhuyquangvt@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 204,
+    "email": "nguyenmanhkhang0805@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 205,
+    "email": "nguyenminhtri1808t@gmail.com",
+    "score": 74
+  },
+  {
+    "type": "SpringBoot",
+    "no": 206,
+    "email": "nguyenngochandeveloper@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 207,
+    "email": "nguyennhat.110120@gmail.com",
+    "score": 90
+  },
+  {
+    "type": "SpringBoot",
+    "no": 208,
+    "email": "nguyennhatminhnau@gmail.com",
     "score": 67
   },
   {
-    "no": 254,
-    "email": "minhtranquang851@gmail.com",
-    "score": 16
+    "type": "SpringBoot",
+    "no": 209,
+    "email": "nguyennhm.23ai@vku.udn.vn",
+    "score": 79
   },
   {
-    "no": 255,
-    "email": "minhtuantn2406@gmail.com",
-    "score": 56
+    "type": "SpringBoot",
+    "no": 210,
+    "email": "nguyenphubinh53@gmail.com",
+    "score": 94
   },
   {
-    "no": 256,
-    "email": "mtbinhitus@gmail.com",
-    "score": 66
+    "type": "SpringBoot",
+    "no": 211,
+    "email": "Nguyenquanghuan252@gmail.com",
+    "score": 95
   },
   {
-    "no": 257,
-    "email": "n1.amber3003@gmail.com",
-    "score": 58
+    "type": "SpringBoot",
+    "no": 212,
+    "email": "nguyenquangthinh02012004@gmail.com",
+    "score": 100
   },
   {
-    "no": 258,
-    "email": "namlin118@gmail.com",
-    "score": 56
+    "type": "SpringBoot",
+    "no": 213,
+    "email": "nguyenthaiak25@gmail.com",
+    "score": 95
   },
   {
-    "no": 259,
-    "email": "namnguyen2301@gmail.com",
-    "score": 18
+    "type": "SpringBoot",
+    "no": 214,
+    "email": "nguyenthanhdat1412joitaro@gmail.com",
+    "score": 79
   },
   {
-    "no": 260,
-    "email": "nampn21@uef.edu.vn",
-    "score": 64
+    "type": "SpringBoot",
+    "no": 215,
+    "email": "nguyenthientu413@gmail.com",
+    "score": 95
   },
   {
-    "no": 261,
-    "email": "namstich@gmail.com",
+    "type": "SpringBoot",
+    "no": 216,
+    "email": "nguyenthihaianh259@gmail.com",
     "score": 85
   },
   {
-    "no": 262,
-    "email": "nethaivl19t4@gmail.com",
-    "score": 68
-  },
-  {
-    "no": 263,
-    "email": "nganbui9a2017@gmail.com",
-    "score": 56
-  },
-  {
-    "no": 264,
-    "email": "ngatrinh.200599@gmail.com",
-    "score": 72
-  },
-  {
-    "no": 265,
-    "email": "nghiatn.career@gmail.com",
-    "score": 51
-  },
-  {
-    "no": 266,
-    "email": "ngocit26@gmail.com",
-    "score": 32
-  },
-  {
-    "no": 267,
-    "email": "ngoclong2663@gmail.com",
-    "score": 75
-  },
-  {
-    "no": 268,
-    "email": "ngoc.ngo22112004@hcmut.edu.vn",
-    "score": 100
-  },
-  {
-    "no": 269,
-    "email": "ngoctuan6012020@gmail.com",
-    "score": 15
-  },
-  {
-    "no": 270,
-    "email": "ngonguyenducmanh@gmail.com",
-    "score": 62
-  },
-  {
-    "no": 271,
-    "email": "ngotanhung02011999@gmail.com",
-    "score": 50
-  },
-  {
-    "no": 272,
-    "email": "ngovan960@gmail.com",
-    "score": 54
-  },
-  {
-    "no": 273,
-    "email": "nguenductoan2003@gmail.com",
-    "score": 24
-  },
-  {
-    "no": 274,
-    "email": "nguyenbinh191103@gmail.com",
-    "score": 36
-  },
-  {
-    "no": 275,
-    "email": "nguyenchungvan.t1.15cla@gmail.com",
-    "score": 56
-  },
-  {
-    "no": 276,
-    "email": "nguyenddqui@gmail.com",
-    "score": 23
-  },
-  {
-    "no": 277,
-    "email": "nguyenducanhtuan0602@gmail.com",
-    "score": 65
-  },
-  {
-    "no": 278,
-    "email": "nguyenducloc7701@gmail.com",
-    "score": 75
-  },
-  {
-    "no": 279,
-    "email": "nguyenduykhanh1820@gmail.com",
-    "score": 36
-  },
-  {
-    "no": 280,
-    "email": "nguyenduynam2003@gmail.com",
-    "score": 52
-  },
-  {
-    "no": 281,
-    "email": "nguyengiason7@gmail.com",
-    "score": 55
-  },
-  {
-    "no": 282,
-    "email": "nguyenhangnhathuy@gmail.com",
-    "score": 8
-  },
-  {
-    "no": 283,
-    "email": "nguyenhavietanh2503@gmail.com",
-    "score": 39
-  },
-  {
-    "no": 284,
-    "email": "nguyenhoangbao2901@gmail.com",
-    "score": 32
-  },
-  {
-    "no": 285,
-    "email": "nguyenhoanghieu15102004@gmail.com",
-    "score": 16
-  },
-  {
-    "no": 286,
-    "email": "nguyenhotruongson1234@gmail.com",
-    "score": 75
-  },
-  {
-    "no": 287,
-    "email": "nguyenhuuhung2610@gmail.com",
-    "score": 92
-  },
-  {
-    "no": 288,
-    "email": "nguyenhuuthiet01012002@gmail.com",
-    "score": 4
-  },
-  {
-    "no": 289,
-    "email": "nguyenhuyquangvt@gmail.com",
-    "score": 77
-  },
-  {
-    "no": 290,
-    "email": "nguyenmanhkhang0805@gmail.com",
-    "score": 80
-  },
-  {
-    "no": 291,
-    "email": "nguyenminhtri1808t@gmail.com",
-    "score": 39
-  },
-  {
-    "no": 292,
-    "email": "nguyenngochandeveloper@gmail.com",
-    "score": 32
-  },
-  {
-    "no": 293,
-    "email": "nguyenngotrunghau@gmail.com",
-    "score": 44
-  },
-  {
-    "no": 294,
-    "email": "nguyennhat.110120@gmail.com",
-    "score": 88
-  },
-  {
-    "no": 295,
-    "email": "nguyennhatminhnau@gmail.com",
-    "score": 59
-  },
-  {
-    "no": 296,
-    "email": "nguyennhm.23ai@vku.udn.vn",
-    "score": 16
-  },
-  {
-    "no": 297,
-    "email": "nguyennhuhung72@gmail.com",
-    "score": 43
-  },
-  {
-    "no": 298,
-    "email": "nguyenphubinh53@gmail.com",
-    "score": 63
-  },
-  {
-    "no": 299,
-    "email": "Nguyenquanghuan252@gmail.com",
-    "score": 52
-  },
-  {
-    "no": 300,
-    "email": "nguyenquangthinh02012004@gmail.com",
-    "score": 52
-  },
-  {
-    "no": 301,
-    "email": "nguyenthaiak25@gmail.com",
-    "score": 46
-  },
-  {
-    "no": 302,
-    "email": "nguyenthanhdat1412joitaro@gmail.com",
-    "score": 82
-  },
-  {
-    "no": 303,
-    "email": "nguyenthanhnamnv996@gmail.com",
-    "score": 88
-  },
-  {
-    "no": 304,
-    "email": "nguyenthientu413@gmail.com",
-    "score": 100
-  },
-  {
-    "no": 305,
-    "email": "nguyenthihaianh259@gmail.com",
-    "score": 16
-  },
-  {
-    "no": 306,
+    "type": "SpringBoot",
+    "no": 217,
     "email": "nguyenthihonghanh5098@gmail.com",
-    "score": 8
+    "score": 79
   },
   {
-    "no": 307,
+    "type": "SpringBoot",
+    "no": 218,
     "email": "nguyenthingocphuoc1133@gmail.com",
-    "score": 60
+    "score": 95
   },
   {
-    "no": 308,
+    "type": "SpringBoot",
+    "no": 219,
     "email": "Nguyentiendat12a8k57@gmail.com",
-    "score": 91
+    "score": 84
   },
   {
-    "no": 309,
+    "type": "SpringBoot",
+    "no": 220,
     "email": "nguyentiendatx12345@gmail.com",
-    "score": 48
+    "score": 89
   },
   {
-    "no": 310,
-    "email": "nguyentienphat13@gmail.com",
-    "score": 39
-  },
-  {
-    "no": 311,
+    "type": "SpringBoot",
+    "no": 221,
     "email": "nguyentrieuvi26112003@gmail.com",
-    "score": 27
+    "score": 100
   },
   {
-    "no": 312,
-    "email": "nguyentrikhang04@gmail.com",
-    "score": 67
-  },
-  {
-    "no": 313,
+    "type": "SpringBoot",
+    "no": 222,
     "email": "nguyentuan20042207@gmail.com",
-    "score": 13
+    "score": 89
   },
   {
-    "no": 314,
+    "type": "SpringBoot",
+    "no": 223,
     "email": "nguyentuandat1601@gmail.com",
-    "score": 41
+    "score": 84
   },
   {
-    "no": 315,
+    "type": "SpringBoot",
+    "no": 224,
     "email": "nguyenvoankhoa@gmail.com",
     "score": 100
   },
   {
-    "no": 316,
+    "type": "SpringBoot",
+    "no": 225,
     "email": "NHANDYCU@GMAIL.COM",
-    "score": 15
+    "score": 100
   },
   {
-    "no": 317,
+    "type": "SpringBoot",
+    "no": 226,
     "email": "nhatkhangnguyen1111@gmail.com",
-    "score": 46
+    "score": 95
   },
   {
-    "no": 318,
-    "email": "nhatlx159@gmail.com",
-    "score": 48
-  },
-  {
-    "no": 319,
+    "type": "SpringBoot",
+    "no": 227,
     "email": "nhatngau10@gmail.com",
-    "score": 36
+    "score": 89
   },
   {
-    "no": 320,
+    "type": "SpringBoot",
+    "no": 228,
     "email": "nhatphuc7692@gmail.com",
-    "score": 39
+    "score": 96
   },
   {
-    "no": 321,
-    "email": "nhb22052000@gmail.com",
-    "score": 51
-  },
-  {
-    "no": 322,
+    "type": "SpringBoot",
+    "no": 229,
     "email": "nhdtuan1197@gmail.com",
-    "score": 23
+    "score": 95
   },
   {
-    "no": 323,
+    "type": "SpringBoot",
+    "no": 230,
     "email": "nhnghia.iac@gmail.com",
-    "score": 43
+    "score": 88
   },
   {
-    "no": 324,
+    "type": "SpringBoot",
+    "no": 231,
     "email": "nhochuy348@gmail.com",
-    "score": 68
+    "score": 94
   },
   {
-    "no": 325,
+    "type": "SpringBoot",
+    "no": 232,
     "email": "nhoxthiem1@gmail.com",
-    "score": 31
+    "score": 95
   },
   {
-    "no": 326,
-    "email": "nhut.thanthien17@gmail.com",
-    "score": 43
-  },
-  {
-    "no": 327,
+    "type": "SpringBoot",
+    "no": 233,
     "email": "nhuttran1356@gmail.com",
-    "score": 92
+    "score": 95
   },
   {
-    "no": 328,
+    "type": "SpringBoot",
+    "no": 234,
     "email": "nmhoangthien@gmail.com",
-    "score": 12
+    "score": 83
   },
   {
-    "no": 329,
-    "email": "nnphuyen563@gmail.com",
-    "score": 52
-  },
-  {
-    "no": 330,
-    "email": "npsangservices@gmail.com",
-    "score": 100
-  },
-  {
-    "no": 331,
+    "type": "SpringBoot",
+    "no": 235,
     "email": "nqd230899@gmail.com",
-    "score": 100
+    "score": 95
   },
   {
-    "no": 332,
-    "email": "ntam45599@gmail.com",
-    "score": 58
-  },
-  {
-    "no": 333,
+    "type": "SpringBoot",
+    "no": 236,
     "email": "ntctien.forwork@gmail.com",
-    "score": 84
+    "score": 95
   },
   {
-    "no": 334,
+    "type": "SpringBoot",
+    "no": 237,
     "email": "ntd0710@gmail.com",
-    "score": 36
+    "score": 94
   },
   {
-    "no": 335,
+    "type": "SpringBoot",
+    "no": 238,
     "email": "ntdienthanh1011@gmail.com",
-    "score": 30
+    "score": 89
   },
   {
-    "no": 336,
+    "type": "SpringBoot",
+    "no": 239,
     "email": "nthtrieu204@gmail.com",
-    "score": 75
-  },
-  {
-    "no": 337,
-    "email": "ntnha.iuswt@gmail.com",
-    "score": 72
-  },
-  {
-    "no": 338,
-    "email": "ntthanha20158@cusc.ctu.edu.vn",
-    "score": 27
-  },
-  {
-    "no": 339,
-    "email": "nusinh203@gmail.com",
-    "score": 48
-  },
-  {
-    "no": 340,
-    "email": "nvl150424@gmail.com",
-    "score": 23
-  },
-  {
-    "no": 341,
-    "email": "nvqq43@gmail.com",
-    "score": 0
-  },
-  {
-    "no": 342,
-    "email": "nxhuy.2505@gmail.com",
-    "score": 76
-  },
-  {
-    "no": 343,
-    "email": "oceanwork2820@gmail.com",
-    "score": 76
-  },
-  {
-    "no": 344,
-    "email": "olgn4231@gmail.com",
-    "score": 24
-  },
-  {
-    "no": 345,
-    "email": "ongaisang@gmail.com",
-    "score": 0
-  },
-  {
-    "no": 346,
-    "email": "panadonnst@gmail.com",
-    "score": 60
-  },
-  {
-    "no": 347,
-    "email": "phamdinhkhoi213@gmail.com",
-    "score": 44
-  },
-  {
-    "no": 348,
-    "email": "phammhg@gmail.com",
-    "score": 35
-  },
-  {
-    "no": 349,
-    "email": "phamminhduc2011@gmail.com",
-    "score": 63
-  },
-  {
-    "no": 350,
-    "email": "phamngocphatloc@gmail.com",
-    "score": 32
-  },
-  {
-    "no": 351,
-    "email": "phamphutanxo@gmail.com",
-    "score": 52
-  },
-  {
-    "no": 352,
-    "email": "phamquoc170802@gmail.com",
-    "score": 51
-  },
-  {
-    "no": 353,
-    "email": "phamtheants@gmail.com",
-    "score": 76
-  },
-  {
-    "no": 354,
-    "email": "phamtiendatthcsab123@gmail.com",
-    "score": 56
-  },
-  {
-    "no": 355,
-    "email": "phamtranyenquyen@gmail.com",
-    "score": 66
-  },
-  {
-    "no": 356,
-    "email": "phamtrongtin5@gmail.com",
     "score": 100
   },
   {
-    "no": 357,
+    "type": "SpringBoot",
+    "no": 240,
+    "email": "ntnghiaw@gmail.com",
+    "score": 89
+  },
+  {
+    "type": "SpringBoot",
+    "no": 241,
+    "email": "ntthanha20158@cusc.ctu.edu.vn",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 242,
+    "email": "nvqq43@gmail.com",
+    "score": 61
+  },
+  {
+    "type": "SpringBoot",
+    "no": 243,
+    "email": "nxhuy.2505@gmail.com",
+    "score": 67
+  },
+  {
+    "type": "SpringBoot",
+    "no": 244,
+    "email": "oceanwork2820@gmail.com",
+    "score": 94
+  },
+  {
+    "type": "SpringBoot",
+    "no": 245,
+    "email": "panadonnst@gmail.com",
+    "score": 94
+  },
+  {
+    "type": "SpringBoot",
+    "no": 246,
+    "email": "phamdinhkhoi213@gmail.com",
+    "score": 89
+  },
+  {
+    "type": "SpringBoot",
+    "no": 247,
+    "email": "phamminhduc2011@gmail.com",
+    "score": 94
+  },
+  {
+    "type": "SpringBoot",
+    "no": 248,
+    "email": "phamngocdongthi@gmail.com",
+    "score": 79
+  },
+  {
+    "type": "SpringBoot",
+    "no": 249,
+    "email": "phamngocphatloc@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 250,
+    "email": "phamphutanxo@gmail.com",
+    "score": 90
+  },
+  {
+    "type": "SpringBoot",
+    "no": 251,
+    "email": "phamquoc170802@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 252,
+    "email": "phamtheants@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 253,
     "email": "phamxuantritue.studio@gmail.com",
-    "score": 48
+    "score": 79
   },
   {
-    "no": 358,
+    "type": "SpringBoot",
+    "no": 254,
     "email": "phanduytan475@gmail.com",
-    "score": 60
+    "score": 90
   },
   {
-    "no": 359,
+    "type": "SpringBoot",
+    "no": 255,
     "email": "phanvan.contact@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 256,
+    "email": "phbtoan9185@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 257,
+    "email": "phong.tgn02575@sinhvien.hoasen.edu.vn",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 258,
+    "email": "phuc0985531639@gmail.com",
+    "score": 83
+  },
+  {
+    "type": "SpringBoot",
+    "no": 259,
+    "email": "phuc.11102001@gmail.com",
     "score": 84
   },
   {
-    "no": 360,
-    "email": "phanvodinh7@gmail.com",
-    "score": 44
-  },
-  {
-    "no": 361,
-    "email": "phbtoan9185@gmail.com",
-    "score": 60
-  },
-  {
-    "no": 362,
-    "email": "phong.tgn02575@sinhvien.hoasen.edu.vn",
-    "score": 0
-  },
-  {
-    "no": 363,
-    "email": "phongtranhk20@gmail.com",
-    "score": 59
-  },
-  {
-    "no": 364,
-    "email": "phuc0985531639@gmail.com",
-    "score": 28
-  },
-  {
-    "no": 365,
-    "email": "phuc.hg00121@sinhvien.hoasen.edu.vn",
-    "score": 47
-  },
-  {
-    "no": 366,
+    "type": "SpringBoot",
+    "no": 260,
     "email": "phuchoang.huynh.207@gmail.com",
-    "score": 8
-  },
-  {
-    "no": 367,
-    "email": "phuctrong1902@gmail.com",
-    "score": 32
-  },
-  {
-    "no": 368,
-    "email": "phuduy1999@gmail.com",
-    "score": 63
-  },
-  {
-    "no": 369,
-    "email": "phuocnt20@gmail.com",
-    "score": 30
-  },
-  {
-    "no": 370,
-    "email": "phuong.ltd14901@gmail.com",
-    "score": 24
-  },
-  {
-    "no": 371,
-    "email": "phuongngovan2003@gmail.com",
-    "score": 47
-  },
-  {
-    "no": 372,
-    "email": "phuvo2105@gmail.com",
-    "score": 48
-  },
-  {
-    "no": 373,
-    "email": "pl30102003@gmail.com",
-    "score": 52
-  },
-  {
-    "no": 374,
-    "email": "pnpduy04@gmail.com",
     "score": 100
   },
   {
-    "no": 375,
+    "type": "SpringBoot",
+    "no": 261,
+    "email": "phuctrong1902@gmail.com",
+    "score": 73
+  },
+  {
+    "type": "SpringBoot",
+    "no": 262,
+    "email": "phuduy1999@gmail.com",
+    "score": 88
+  },
+  {
+    "type": "SpringBoot",
+    "no": 263,
+    "email": "phuong.ltd14901@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 264,
+    "email": "pl30102003@gmail.com",
+    "score": 90
+  },
+  {
+    "type": "SpringBoot",
+    "no": 265,
+    "email": "pnpduy04@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 266,
     "email": "pounguyen.nttt@gmail.com",
-    "score": 55
+    "score": 94
   },
   {
-    "no": 376,
+    "type": "SpringBoot",
+    "no": 267,
     "email": "pquoctrung141205@gmail.com",
-    "score": 60
+    "score": 89
   },
   {
-    "no": 377,
+    "type": "SpringBoot",
+    "no": 268,
     "email": "ptphat97@gmail.com",
-    "score": 78
+    "score": 94
   },
   {
-    "no": 378,
+    "type": "SpringBoot",
+    "no": 269,
     "email": "ptr210701@gmail.com",
-    "score": 42
+    "score": 62
   },
   {
-    "no": 379,
+    "type": "SpringBoot",
+    "no": 270,
     "email": "Qhuynguyenthai@gmail.com",
-    "score": 0
+    "score": 95
   },
   {
-    "no": 380,
+    "type": "SpringBoot",
+    "no": 271,
     "email": "quangduy.family@gmail.com",
-    "score": 24
+    "score": 82
   },
   {
-    "no": 381,
+    "type": "SpringBoot",
+    "no": 272,
     "email": "quanggg2503@gmail.com",
-    "score": 0
+    "score": 94
   },
   {
-    "no": 382,
-    "email": "quangkhai235@gmail.com",
-    "score": 13
-  },
-  {
-    "no": 383,
+    "type": "SpringBoot",
+    "no": 273,
     "email": "quangnguyenckc640@gmail.com",
-    "score": 30
+    "score": 100
   },
   {
-    "no": 384,
+    "type": "SpringBoot",
+    "no": 274,
     "email": "quangthangdz718964@gmail.com",
-    "score": 44
+    "score": 95
   },
   {
-    "no": 385,
+    "type": "SpringBoot",
+    "no": 275,
     "email": "quocan102003@gmail.com",
-    "score": 47
+    "score": 90
   },
   {
-    "no": 386,
+    "type": "SpringBoot",
+    "no": 276,
     "email": "quoc.nn00820@sinhvien.hoasen.edu.vn",
     "score": 100
   },
   {
-    "no": 387,
-    "email": "quoctrung87377@gmail.com",
-    "score": 36
-  },
-  {
-    "no": 388,
+    "type": "SpringBoot",
+    "no": 277,
     "email": "saitama10112003@gmail.com",
-    "score": 48
+    "score": 94
   },
   {
-    "no": 389,
+    "type": "SpringBoot",
+    "no": 278,
     "email": "socthanhnhi@gmail.com",
-    "score": 60
+    "score": 88
   },
   {
-    "no": 390,
+    "type": "SpringBoot",
+    "no": 279,
     "email": "son.nguyenyamakun@hcmut.edu.vn",
-    "score": 51
+    "score": 94
   },
   {
-    "no": 391,
-    "email": "strarrilizard@gmail.com",
-    "score": 52
+    "type": "SpringBoot",
+    "no": 280,
+    "email": "sonpt2014@gmail.com",
+    "score": 0
   },
   {
-    "no": 392,
+    "type": "SpringBoot",
+    "no": 281,
     "email": "sytruong61@gmail.com",
-    "score": 59
+    "score": 94
   },
   {
-    "no": 393,
+    "type": "SpringBoot",
+    "no": 282,
     "email": "tain6507@gmail.com",
-    "score": 20
+    "score": 100
   },
   {
-    "no": 394,
+    "type": "SpringBoot",
+    "no": 283,
     "email": "taiphamvan533@gmail.com",
-    "score": 100
+    "score": 95
   },
   {
-    "no": 395,
+    "type": "SpringBoot",
+    "no": 284,
     "email": "taipvnbk2003@gmail.com",
-    "score": 36
+    "score": 95
   },
   {
-    "no": 396,
+    "type": "SpringBoot",
+    "no": 285,
     "email": "taminhmon240199@gmail.com",
-    "score": 60
-  },
-  {
-    "no": 397,
-    "email": "tamtamtam6a5@gmail.com",
-    "score": 35
-  },
-  {
-    "no": 398,
-    "email": "tanaka52507x@gmail.com",
-    "score": 4
-  },
-  {
-    "no": 399,
-    "email": "tanh11704@gmail.com",
-    "score": 63
-  },
-  {
-    "no": 400,
-    "email": "tanlocnguyen2410@gmail.com",
-    "score": 4
-  },
-  {
-    "no": 401,
-    "email": "tanquocnguyen91@gmail.com",
-    "score": 0
-  },
-  {
-    "no": 402,
-    "email": "tdpvinh@gmail.com",
-    "score": 52
-  },
-  {
-    "no": 403,
-    "email": "tha0522934509@gmail.com",
-    "score": 16
-  },
-  {
-    "no": 404,
-    "email": "Thachtrongnghia@gmail.com",
-    "score": 75
-  },
-  {
-    "no": 405,
-    "email": "thaigiahuy.hlk@gmail.com",
     "score": 100
   },
   {
-    "no": 406,
+    "type": "SpringBoot",
+    "no": 286,
+    "email": "tamtamtam6a5@gmail.com",
+    "score": 90
+  },
+  {
+    "type": "SpringBoot",
+    "no": 287,
+    "email": "tanh11704@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 288,
+    "email": "tdpvinh@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 289,
+    "email": "Thachtrongnghia@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 290,
     "email": "Thaihoang03072002@gmail.com",
-    "score": 68
+    "score": 95
   },
   {
-    "no": 407,
+    "type": "SpringBoot",
+    "no": 291,
     "email": "thaihoangcr1@gmail.com",
-    "score": 8
+    "score": 90
   },
   {
-    "no": 408,
+    "type": "SpringBoot",
+    "no": 292,
     "email": "thainguyenthuaan@gmail.com",
-    "score": 15
+    "score": 100
   },
   {
-    "no": 409,
+    "type": "SpringBoot",
+    "no": 293,
     "email": "thang8111999@gmail.com",
-    "score": 24
+    "score": 95
   },
   {
-    "no": 410,
+    "type": "SpringBoot",
+    "no": 294,
     "email": "thang.hokhmtk22@hcmut.edu.vn",
-    "score": 44
+    "score": 95
   },
   {
-    "no": 411,
+    "type": "SpringBoot",
+    "no": 295,
     "email": "thangqtran23@gmail.com",
-    "score": 24
+    "score": 85
   },
   {
-    "no": 412,
+    "type": "SpringBoot",
+    "no": 296,
     "email": "thanh131001@gmail.com",
-    "score": 4
+    "score": 89
   },
   {
-    "no": 413,
+    "type": "SpringBoot",
+    "no": 297,
     "email": "thanhcong.trinh2002@gmail.com",
-    "score": 35
+    "score": 94
   },
   {
-    "no": 414,
+    "type": "SpringBoot",
+    "no": 298,
     "email": "thanhdp881@gmail.com",
-    "score": 60
+    "score": 86
   },
   {
-    "no": 415,
-    "email": "thanhhuy1301@gmail.com",
-    "score": 0
-  },
-  {
-    "no": 416,
+    "type": "SpringBoot",
+    "no": 299,
     "email": "thanh.kieu2007@hcmut.edu.vn",
-    "score": 84
+    "score": 89
   },
   {
-    "no": 417,
+    "type": "SpringBoot",
+    "no": 300,
     "email": "thanhnguyenthanhgs@gmail.com",
-    "score": 24
+    "score": 89
   },
   {
-    "no": 418,
-    "email": "thanhpthps36328@fpt.edu.vn",
+    "type": "SpringBoot",
+    "no": 301,
+    "email": "thanhtuk33tp2@gmail.com",
+    "score": 94
+  },
+  {
+    "type": "SpringBoot",
+    "no": 302,
+    "email": "thanh.web1001@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 303,
+    "email": "thh12062002@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 304,
+    "email": "thienman.ntm@gmail.com",
     "score": 72
   },
   {
-    "no": 419,
-    "email": "thanhtuk33tp2@gmail.com",
-    "score": 47
+    "type": "SpringBoot",
+    "no": 305,
+    "email": "thoianhtuan1020@gmail.com",
+    "score": 90
   },
   {
-    "no": 420,
-    "email": "thanh.web1001@gmail.com",
+    "type": "SpringBoot",
+    "no": 306,
+    "email": "thoitranngocthach30@gmail.com",
+    "score": 88
+  },
+  {
+    "type": "SpringBoot",
+    "no": 307,
+    "email": "thuan8a1lp@gmail.com",
+    "score": 86
+  },
+  {
+    "type": "SpringBoot",
+    "no": 308,
+    "email": "thuanptg1999@gmail.com",
+    "score": 83
+  },
+  {
+    "type": "SpringBoot",
+    "no": 309,
+    "email": "thu.tranthi@atcollabo.com",
     "score": 84
   },
   {
-    "no": 421,
-    "email": "thao1609@broward.edu.vn",
-    "score": 64
-  },
-  {
-    "no": 422,
-    "email": "thh12062002@gmail.com",
-    "score": 100
-  },
-  {
-    "no": 423,
-    "email": "thienman.ntm@gmail.com",
-    "score": 59
-  },
-  {
-    "no": 424,
-    "email": "thienphuc532266@gmail.com",
-    "score": 65
-  },
-  {
-    "no": 425,
-    "email": "thienthanh.phanngoc@atcollabo.com",
-    "score": 83
-  },
-  {
-    "no": 426,
-    "email": "thientri.trank17@gmail.com",
-    "score": 36
-  },
-  {
-    "no": 427,
-    "email": "thoianhtuan1020@gmail.com",
-    "score": 24
-  },
-  {
-    "no": 428,
-    "email": "thoitranngocthach30@gmail.com",
-    "score": 27
-  },
-  {
-    "no": 429,
-    "email": "thophan357@gmail.com",
-    "score": 0
-  },
-  {
-    "no": 430,
-    "email": "thotin2003@gmail.com",
-    "score": 57
-  },
-  {
-    "no": 431,
-    "email": "thuan8a1lp@gmail.com",
-    "score": 71
-  },
-  {
-    "no": 432,
-    "email": "thuanptg1999@gmail.com",
-    "score": 68
-  },
-  {
-    "no": 433,
-    "email": "thubinhtran.aac.hvnh@gmail.com",
-    "score": 22
-  },
-  {
-    "no": 434,
-    "email": "thu.tranthi@atcollabo.com",
-    "score": 100
-  },
-  {
-    "no": 435,
+    "type": "SpringBoot",
+    "no": 310,
     "email": "thuydung12111990@gmail.com",
-    "score": 8
-  },
-  {
-    "no": 436,
-    "email": "thuyduyen090204@gmail.com",
-    "score": 47
-  },
-  {
-    "no": 437,
-    "email": "thuynguyetquynh@gmail.com",
-    "score": 60
-  },
-  {
-    "no": 438,
-    "email": "thuytrang.ngo@atcollabo.com",
-    "score": 83
-  },
-  {
-    "no": 439,
-    "email": "tibanh03@gmail.com",
-    "score": 82
-  },
-  {
-    "no": 440,
-    "email": "tien1572@gmail.com",
-    "score": 40
-  },
-  {
-    "no": 441,
-    "email": "tiendat060709@gmail.com",
-    "score": 76
-  },
-  {
-    "no": 442,
-    "email": "tiendatcntt1309@gmail.com",
-    "score": 44
-  },
-  {
-    "no": 443,
-    "email": "tienguyen231@gmail.com",
-    "score": 70
-  },
-  {
-    "no": 444,
-    "email": "tientk17@gmail.com",
-    "score": 52
-  },
-  {
-    "no": 445,
-    "email": "tieugem1997@gmail.com",
-    "score": 91
-  },
-  {
-    "no": 446,
-    "email": "tingkhanh2004@gmail.com",
-    "score": 32
-  },
-  {
-    "no": 447,
-    "email": "tinkt1397@gmail.com",
-    "score": 49
-  },
-  {
-    "no": 448,
-    "email": "tin.nguyenjwr161202@hcmut.edu.vn",
-    "score": 75
-  },
-  {
-    "no": 449,
-    "email": "tminh193.bil@gmail.com",
-    "score": 39
-  },
-  {
-    "no": 450,
-    "email": "tran30950@gmail.com",
-    "score": 44
-  },
-  {
-    "no": 451,
-    "email": "tranb2203588@student.ctu.edu.vn",
-    "score": 66
-  },
-  {
-    "no": 452,
-    "email": "tranchithanh0404@gmail.com",
-    "score": 35
-  },
-  {
-    "no": 453,
-    "email": "trancuong4896@gmail.com",
-    "score": 39
-  },
-  {
-    "no": 454,
-    "email": "trandongtri.work@gmail.com",
     "score": 100
   },
   {
-    "no": 455,
-    "email": "tranduyen280297@gmail.com",
-    "score": 63
+    "type": "SpringBoot",
+    "no": 311,
+    "email": "thuyduyen090204@gmail.com",
+    "score": 89
   },
   {
-    "no": 456,
-    "email": "tranhoaithuong09122003@gmail.com",
-    "score": 62
+    "type": "SpringBoot",
+    "no": 312,
+    "email": "thuynguyetquynh@gmail.com",
+    "score": 100
   },
   {
-    "no": 457,
-    "email": "tranhuytuan.vietnam@gmail.com",
-    "score": 48
+    "type": "SpringBoot",
+    "no": 313,
+    "email": "tibanh03@gmail.com",
+    "score": 100
   },
   {
-    "no": 458,
-    "email": "tranminhtung381@gmail.com",
-    "score": 76
+    "type": "SpringBoot",
+    "no": 314,
+    "email": "tien1572@gmail.com",
+    "score": 89
   },
   {
-    "no": 459,
-    "email": "tranquockhanhdhsp99@gmail.com",
+    "type": "SpringBoot",
+    "no": 315,
+    "email": "tiendat060709@gmail.com",
+    "score": 84
+  },
+  {
+    "type": "SpringBoot",
+    "no": 316,
+    "email": "tiendatcntt1309@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 317,
+    "email": "tienguyen231@gmail.com",
+    "score": 84
+  },
+  {
+    "type": "SpringBoot",
+    "no": 318,
+    "email": "tieugem1997@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 319,
+    "email": "tingkhanh2004@gmail.com",
+    "score": 88
+  },
+  {
+    "type": "SpringBoot",
+    "no": 320,
+    "email": "tin.nguyenjwr161202@hcmut.edu.vn",
     "score": 83
   },
   {
-    "no": 460,
+    "type": "SpringBoot",
+    "no": 321,
+    "email": "tminh193.bil@gmail.com",
+    "score": 83
+  },
+  {
+    "type": "SpringBoot",
+    "no": 322,
+    "email": "tranb2203588@student.ctu.edu.vn",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 323,
+    "email": "tranchithanh0404@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 324,
+    "email": "trancuong4896@gmail.com",
+    "score": 94
+  },
+  {
+    "type": "SpringBoot",
+    "no": 325,
+    "email": "trandongtri.work@gmail.com",
+    "score": 16
+  },
+  {
+    "type": "SpringBoot",
+    "no": 326,
+    "email": "tranduyen280297@gmail.com",
+    "score": 90
+  },
+  {
+    "type": "SpringBoot",
+    "no": 327,
+    "email": "tranhoaithuong09122003@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 328,
+    "email": "tranminhtung381@gmail.com",
+    "score": 94
+  },
+  {
+    "type": "SpringBoot",
+    "no": 329,
+    "email": "tranquockhanhdhsp99@gmail.com",
+    "score": 84
+  },
+  {
+    "type": "SpringBoot",
+    "no": 330,
     "email": "tranthecong99@gmail.com",
-    "score": 44
+    "score": 94
   },
   {
-    "no": 461,
+    "type": "SpringBoot",
+    "no": 331,
     "email": "tranvanluc2506@gmail.com",
-    "score": 20
+    "score": 100
   },
   {
-    "no": 462,
+    "type": "SpringBoot",
+    "no": 332,
     "email": "tranvantruong042002@gmail.com",
     "score": 100
   },
   {
-    "no": 463,
+    "type": "SpringBoot",
+    "no": 333,
     "email": "tranvuhoanga7@gmail.com",
-    "score": 40
+    "score": 85
   },
   {
-    "no": 464,
+    "type": "SpringBoot",
+    "no": 334,
     "email": "tranyenanh2912@gmail.com",
-    "score": 32
+    "score": 100
   },
   {
-    "no": 465,
+    "type": "SpringBoot",
+    "no": 335,
     "email": "triet.nhm04483@sinhvien.hoasen.edu.vn",
-    "score": 75
+    "score": 95
   },
   {
-    "no": 466,
+    "type": "SpringBoot",
+    "no": 336,
     "email": "tri.lykhmt2003@hcmut.edu.vn",
-    "score": 64
+    "score": 89
   },
   {
-    "no": 467,
+    "type": "SpringBoot",
+    "no": 337,
     "email": "trinhngochien.sg@gmail.com",
-    "score": 92
+    "score": 95
   },
   {
-    "no": 468,
+    "type": "SpringBoot",
+    "no": 338,
     "email": "trinhnguyen8cbm@gmail.com",
-    "score": 68
+    "score": 95
   },
   {
-    "no": 469,
+    "type": "SpringBoot",
+    "no": 339,
     "email": "tritam20082001@gmail.com",
-    "score": 32
+    "score": 79
   },
   {
-    "no": 470,
+    "type": "SpringBoot",
+    "no": 340,
     "email": "trongleviet06@gmail.com",
-    "score": 63
+    "score": 89
   },
   {
-    "no": 471,
+    "type": "SpringBoot",
+    "no": 341,
     "email": "trongpro0307@gmail.com",
-    "score": 84
+    "score": 90
   },
   {
-    "no": 472,
+    "type": "SpringBoot",
+    "no": 342,
+    "email": "trongquy1628@gmail.com",
+    "score": 100
+  },
+  {
+    "type": "SpringBoot",
+    "no": 343,
     "email": "trunghieu8533@gmail.com",
-    "score": 57
+    "score": 73
   },
   {
-    "no": 473,
+    "type": "SpringBoot",
+    "no": 344,
     "email": "trungnguyen272@icloud.com",
-    "score": 12
+    "score": 94
   },
   {
-    "no": 474,
-    "email": "trungquangle0102@gmail.com",
-    "score": 64
-  },
-  {
-    "no": 475,
-    "email": "trungvu.work@gmail.com",
-    "score": 52
-  },
-  {
-    "no": 476,
+    "type": "SpringBoot",
+    "no": 345,
     "email": "trung.vuxuanmai@hcmut.edu.vn",
-    "score": 56
+    "score": 94
   },
   {
-    "no": 477,
+    "type": "SpringBoot",
+    "no": 346,
     "email": "truongcongduy1052003@gmail.com",
-    "score": 84
+    "score": 89
   },
   {
-    "no": 478,
+    "type": "SpringBoot",
+    "no": 347,
     "email": "truongnhan115@gmail.com",
-    "score": 59
+    "score": 89
   },
   {
-    "no": 479,
+    "type": "SpringBoot",
+    "no": 348,
     "email": "Tthaotthao78@gmail.com",
-    "score": 68
+    "score": 94
   },
   {
-    "no": 480,
+    "type": "SpringBoot",
+    "no": 349,
     "email": "ttrang.nghiem@atcollabo.com",
-    "score": 76
+    "score": 85
   },
   {
-    "no": 481,
-    "email": "tuananh1320032@gmail.com",
-    "score": 67
-  },
-  {
-    "no": 482,
+    "type": "SpringBoot",
+    "no": 350,
     "email": "tuandoan1578@gmail.com",
-    "score": 35
+    "score": 80
   },
   {
-    "no": 483,
+    "type": "SpringBoot",
+    "no": 351,
     "email": "tuanvumustache@gmail.com",
-    "score": 91
+    "score": 100
   },
   {
-    "no": 484,
-    "email": "tuminh9702@gmail.com",
-    "score": 68
-  },
-  {
-    "no": 485,
+    "type": "SpringBoot",
+    "no": 352,
     "email": "tungduong0708@gmail.com",
-    "score": 66
+    "score": 95
   },
   {
-    "no": 486,
+    "type": "SpringBoot",
+    "no": 353,
     "email": "tung.luongthanh03@hcmut.edu.vn",
-    "score": 44
+    "score": 94
   },
   {
-    "no": 487,
+    "type": "SpringBoot",
+    "no": 354,
+    "email": "tung.ttrieu@gmail.com",
+    "score": 95
+  },
+  {
+    "type": "SpringBoot",
+    "no": 355,
     "email": "tungvucao151@gmail.com",
-    "score": 47
+    "score": 100
   },
   {
-    "no": 488,
-    "email": "tuongvy54916@gmail.com",
-    "score": 68
-  },
-  {
-    "no": 489,
+    "type": "SpringBoot",
+    "no": 356,
     "email": "tvphong12a13.2022@gmail.com",
-    "score": 16
+    "score": 95
   },
   {
-    "no": 490,
+    "type": "SpringBoot",
+    "no": 357,
     "email": "txuan5357@gmail.com",
-    "score": 54
+    "score": 95
   },
   {
-    "no": 491,
+    "type": "SpringBoot",
+    "no": 358,
     "email": "uyenhuynh13122000@gmail.com",
-    "score": 15
+    "score": 72
   },
   {
-    "no": 492,
+    "type": "SpringBoot",
+    "no": 359,
     "email": "vanduongg1711@gmail.com",
-    "score": 77
+    "score": 90
   },
   {
-    "no": 493,
+    "type": "SpringBoot",
+    "no": 360,
     "email": "vani.mymine@gmail.com",
-    "score": 75
+    "score": 94
   },
   {
-    "no": 494,
+    "type": "SpringBoot",
+    "no": 361,
     "email": "van.nguyenbk910@gmail.com",
-    "score": 16
+    "score": 89
   },
   {
-    "no": 495,
-    "email": "vanriep25@gmail.com",
-    "score": 20
+    "type": "SpringBoot",
+    "no": 362,
+    "email": "vanphuoc1029@gmail.com",
+    "score": 89
   },
   {
-    "no": 496,
+    "type": "SpringBoot",
+    "no": 363,
     "email": "vantungdeveloper@gmail.com",
-    "score": 40
+    "score": 89
   },
   {
-    "no": 497,
+    "type": "SpringBoot",
+    "no": 364,
     "email": "vietanhpham1515@gmail.com",
-    "score": 91
+    "score": 82
   },
   {
-    "no": 498,
+    "type": "SpringBoot",
+    "no": 365,
     "email": "viethienhb@gmail.com",
     "score": 100
   },
   {
-    "no": 499,
+    "type": "SpringBoot",
+    "no": 366,
     "email": "vinh534473@gmail.com",
-    "score": 59
+    "score": 100
   },
   {
-    "no": 500,
+    "type": "SpringBoot",
+    "no": 367,
     "email": "vinh.caok21@hcmut.edu.vn",
-    "score": 16
+    "score": 100
   },
   {
-    "no": 501,
-    "email": "vinhkhangquach2002@gmail.com",
-    "score": 20
-  },
-  {
-    "no": 502,
-    "email": "vinhpham4120@gmail.com",
-    "score": 45
-  },
-  {
-    "no": 503,
-    "email": "vn11201@gmail.com",
-    "score": 23
-  },
-  {
-    "no": 504,
+    "type": "SpringBoot",
+    "no": 368,
     "email": "vohoangtu0409@gmail.com",
-    "score": 70
+    "score": 83
   },
   {
-    "no": 505,
+    "type": "SpringBoot",
+    "no": 369,
     "email": "vominhdat65@gmail.com",
-    "score": 47
+    "score": 95
   },
   {
-    "no": 506,
+    "type": "SpringBoot",
+    "no": 370,
     "email": "votrung1011@gmail.com",
-    "score": 88
+    "score": 89
   },
   {
-    "no": 507,
+    "type": "SpringBoot",
+    "no": 371,
     "email": "vo.t.tai0511@gmail.com",
-    "score": 84
+    "score": 89
   },
   {
-    "no": 508,
+    "type": "SpringBoot",
+    "no": 372,
     "email": "vt.dang000@gmail.com",
-    "score": 53
+    "score": 90
   },
   {
-    "no": 509,
+    "type": "SpringBoot",
+    "no": 373,
     "email": "vuhadung.vn90@gmail.com",
-    "score": 84
+    "score": 95
   },
   {
-    "no": 510,
-    "email": "vumanhkhai2539@gmail.com",
-    "score": 16
-  },
-  {
-    "no": 511,
-    "email": "vunam12994@gmail.com",
-    "score": 40
-  },
-  {
-    "no": 512,
-    "email": "Vu.nguyenanhht@gmail.com",
-    "score": 28
-  },
-  {
-    "no": 513,
+    "type": "SpringBoot",
+    "no": 374,
     "email": "vu.phamxuan2806@hcmut.edu.vn",
-    "score": 40
+    "score": 94
   },
   {
-    "no": 514,
-    "email": "wangtai.deung@gmail.com",
-    "score": 30
-  },
-  {
-    "no": 515,
+    "type": "SpringBoot",
+    "no": 375,
     "email": "wintpt2711@gmail.com",
-    "score": 84
+    "score": 95
   },
   {
-    "no": 516,
+    "type": "SpringBoot",
+    "no": 376,
     "email": "xuanmaitramnguyen@gmail.com",
-    "score": 30
+    "score": 89
   },
-  {
-    "no": 517,
-    "email": "xuanquangnhatoi@gmail.com",
-    "score": 20
-  },
-  {
-    "no": 518,
-    "email": "yennhisociuu2004@gmail.com",
-    "score": 0
-  }
+    {
+      "type": "Java",
+      "no": 1,
+      "email": "20h1120119@ut.edu.vn",
+      "score": 68
+    },
+    {
+      "type": "Java",
+      "no": 2,
+      "email": "21521862@gm.uit.edu.vn",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 3,
+      "email": "23110207@student.hcmus.edu.vn",
+      "score": 0
+    },
+    {
+      "type": "Java",
+      "no": 4,
+      "email": "23120146@student.hcmus.edu.vn",
+      "score": 60
+    },
+    {
+      "type": "Java",
+      "no": 5,
+      "email": "23521770@gm.uit.edu.vn",
+      "score": 38
+    },
+    {
+      "type": "Java",
+      "no": 6,
+      "email": "anhpn283@gmail.com",
+      "score": 72
+    },
+    {
+      "type": "Java",
+      "no": 7,
+      "email": "baobao22.work@gmail.com",
+      "score": 72
+    },
+    {
+      "type": "Java",
+      "no": 8,
+      "email": "ben.doantran@gmail.com",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 9,
+      "email": "bynhnguyen203@gmail.com",
+      "score": 42
+    },
+    {
+      "type": "Java",
+      "no": 10,
+      "email": "cuongngba7@gmail.com",
+      "score": 78
+    },
+    {
+      "type": "Java",
+      "no": 11,
+      "email": "cuong.ta14584@sinhvien.hoasen.edu.vn",
+      "score": 72
+    },
+    {
+      "type": "Java",
+      "no": 12,
+      "email": "daianhdung99@gmail.com",
+      "score": 72
+    },
+    {
+      "type": "Java",
+      "no": 13,
+      "email": "dananh05051993@gmail.com",
+      "score": 10
+    },
+    {
+      "type": "Java",
+      "no": 14,
+      "email": "dangthuong1067@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 15,
+      "email": "dangtrunghieusg@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 16,
+      "email": "datnguyen101004@gmail.com",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 17,
+      "email": "dbackspace.hust@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 18,
+      "email": "dev.ndangduc.bn@gmail.com",
+      "score": 60
+    },
+    {
+      "type": "Java",
+      "no": 19,
+      "email": "dieulihn3009@gmail.com",
+      "score": 0
+    },
+    {
+      "type": "Java",
+      "no": 20,
+      "email": "dinhthien150998@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 21,
+      "email": "dinhtrungle2004@gmail.com",
+      "score": 60
+    },
+    {
+      "type": "Java",
+      "no": 22,
+      "email": "duc19052003@gmail.com",
+      "score": 28
+    },
+    {
+      "type": "Java",
+      "no": 23,
+      "email": "duc.tm1359@sinhvien.hoasen.edu.vn",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 24,
+      "email": "duongnghia2904204@gmail.com",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 25,
+      "email": "Duylinh1231@gmail.com",
+      "score": 60
+    },
+    {
+      "type": "Java",
+      "no": 26,
+      "email": "dynlinh222@gmail.com",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 27,
+      "email": "giahuytran36st@gmail.com",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 28,
+      "email": "haidao201005@gmail.com",
+      "score": 28
+    },
+    {
+      "type": "Java",
+      "no": 29,
+      "email": "hhman240602@gmail.com",
+      "score": 90
+    },
+    {
+      "type": "Java",
+      "no": 30,
+      "email": "hien.mc08569@sinhvien.hoasen.edu.vn",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 31,
+      "email": "hiep.thai2307@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 32,
+      "email": "hieuedocrkh@gmail.com",
+      "score": 38
+    },
+    {
+      "type": "Java",
+      "no": 33,
+      "email": "hinhnhandoden@gmail.com",
+      "score": 68
+    },
+    {
+      "type": "Java",
+      "no": 34,
+      "email": "hl.trithanh@gmail.com",
+      "score": 68
+    },
+    {
+      "type": "Java",
+      "no": 35,
+      "email": "hoanganh0610.work@gmail.com",
+      "score": 90
+    },
+    {
+      "type": "Java",
+      "no": 36,
+      "email": "hoangcam2110@gmail.com",
+      "score": 0
+    },
+    {
+      "type": "Java",
+      "no": 37,
+      "email": "hoangthanhnhat0411@gmail.com",
+      "score": 60
+    },
+    {
+      "type": "Java",
+      "no": 38,
+      "email": "hong.nguyen.6334@gmail.com",
+      "score": 0
+    },
+    {
+      "type": "Java",
+      "no": 39,
+      "email": "hungkt111@gmail.com",
+      "score": 60
+    },
+    {
+      "type": "Java",
+      "no": 40,
+      "email": "hungphan.bethel@gmail.com",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 41,
+      "email": "huuhungiu17031@gmail.com",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 42,
+      "email": "huuhuy1909@gmail.com",
+      "score": 90
+    },
+    {
+      "type": "Java",
+      "no": 43,
+      "email": "huydq222@uef.edu.vn",
+      "score": 20
+    },
+    {
+      "type": "Java",
+      "no": 44,
+      "email": "huymanhjk@gmail.com",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 45,
+      "email": "huynhnhatduy1824@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 46,
+      "email": "huynhthinh0205@gmail.com",
+      "score": 28
+    },
+    {
+      "type": "Java",
+      "no": 47,
+      "email": "huythien9019@gmail.com",
+      "score": 80
+    },
+    {
+      "type": "Java",
+      "no": 48,
+      "email": "huy.vonguyengia@hcmut.edu.vn",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 49,
+      "email": "hyundev1406@gmail.com",
+      "score": 60
+    },
+    {
+      "type": "Java",
+      "no": 50,
+      "email": "iantuandoan@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 51,
+      "email": "Jary.le.201@gmail.com",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 52,
+      "email": "kay.nttl@gmail.com",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 53,
+      "email": "kbao040@gmail.com",
+      "score": 50
+    },
+    {
+      "type": "Java",
+      "no": 54,
+      "email": "khaibui0402@gmail.com",
+      "score": 72
+    },
+    {
+      "type": "Java",
+      "no": 55,
+      "email": "khai.th06514@sinhvien.hoasen.edu.vn",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 56,
+      "email": "khangkhangbl@gmail.com",
+      "score": 72
+    },
+    {
+      "type": "Java",
+      "no": 57,
+      "email": "khoilt.work@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 58,
+      "email": "khoi.nm06110@sinhvien.hoasen.edu.vn",
+      "score": 72
+    },
+    {
+      "type": "Java",
+      "no": 59,
+      "email": "kietluuhoanganh@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 60,
+      "email": "kimngoctrung46@gmail.com",
+      "score": 68
+    },
+    {
+      "type": "Java",
+      "no": 61,
+      "email": "kimthien128@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 62,
+      "email": "koongchanphong0712@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 63,
+      "email": "kyeongwook.ma@gmail.com",
+      "score": 10
+    },
+    {
+      "type": "Java",
+      "no": 64,
+      "email": "lehaiau15042003@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 65,
+      "email": "letienthanh030604@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 66,
+      "email": "letrongthien23032003@gmail.com",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 67,
+      "email": "letuanquang1996@gmail.com",
+      "score": 38
+    },
+    {
+      "type": "Java",
+      "no": 68,
+      "email": "longluong2909@gmail.com",
+      "score": 68
+    },
+    {
+      "type": "Java",
+      "no": 69,
+      "email": "Longnguyenhoang1101.work@gmail.com",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 70,
+      "email": "longnt@dhv.edu.vn",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 71,
+      "email": "lthchi1608@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 72,
+      "email": "luthien5921@gmail.com",
+      "score": 72
+    },
+    {
+      "type": "Java",
+      "no": 73,
+      "email": "mainhatminhct1910@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 74,
+      "email": "minhhang171099@gmail.com",
+      "score": 32
+    },
+    {
+      "type": "Java",
+      "no": 75,
+      "email": "mtbinhitus@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 76,
+      "email": "n1.amber3003@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 77,
+      "email": "nethaivl19t4@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 78,
+      "email": "ngoctuan6012020@gmail.com",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 79,
+      "email": "ngotanhung02011999@gmail.com",
+      "score": 78
+    },
+    {
+      "type": "Java",
+      "no": 80,
+      "email": "ngovan960@gmail.com",
+      "score": 72
+    },
+    {
+      "type": "Java",
+      "no": 81,
+      "email": "nguyenhavietanh2503@gmail.com",
+      "score": 50
+    },
+    {
+      "type": "Java",
+      "no": 82,
+      "email": "nguyenhoanghieu15102004@gmail.com",
+      "score": 64
+    },
+    {
+      "type": "Java",
+      "no": 83,
+      "email": "nguyenhuuthiet01012002@gmail.com",
+      "score": 90
+    },
+    {
+      "type": "Java",
+      "no": 84,
+      "email": "nguyenngochandeveloper@gmail.com",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 85,
+      "email": "nguyennhatminhnau@gmail.com",
+      "score": 10
+    },
+    {
+      "type": "Java",
+      "no": 86,
+      "email": "nguyenphubinh53@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 87,
+      "email": "Nguyenquanghuan252@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 88,
+      "email": "nguyenthaiak25@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 89,
+      "email": "nguyenthihonghanh5098@gmail.com",
+      "score": 80
+    },
+    {
+      "type": "Java",
+      "no": 90,
+      "email": "nguyentrieuvi26112003@gmail.com",
+      "score": 72
+    },
+    {
+      "type": "Java",
+      "no": 91,
+      "email": "nguyentuan20042207@gmail.com",
+      "score": 50
+    },
+    {
+      "type": "Java",
+      "no": 92,
+      "email": "nhatkhangnguyen1111@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 93,
+      "email": "nhatngau10@gmail.com",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 94,
+      "email": "nhatphuc7692@gmail.com",
+      "score": 50
+    },
+    {
+      "type": "Java",
+      "no": 95,
+      "email": "nhdtuan1197@gmail.com",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 96,
+      "email": "nhnghia.iac@gmail.com",
+      "score": 60
+    },
+    {
+      "type": "Java",
+      "no": 97,
+      "email": "nhoxthiem1@gmail.com",
+      "score": 72
+    },
+    {
+      "type": "Java",
+      "no": 98,
+      "email": "nmhoangthien@gmail.com",
+      "score": 78
+    },
+    {
+      "type": "Java",
+      "no": 99,
+      "email": "ntd0710@gmail.com",
+      "score": 38
+    },
+    {
+      "type": "Java",
+      "no": 100,
+      "email": "ntthanha20158@cusc.ctu.edu.vn",
+      "score": 68
+    },
+    {
+      "type": "Java",
+      "no": 101,
+      "email": "nvqq43@gmail.com",
+      "score": 10
+    },
+    {
+      "type": "Java",
+      "no": 102,
+      "email": "phamngocdongthi@gmail.com",
+      "score": 36
+    },
+    {
+      "type": "Java",
+      "no": 103,
+      "email": "phamngocphatloc@gmail.com",
+      "score": 90
+    },
+    {
+      "type": "Java",
+      "no": 104,
+      "email": "phamquoc170802@gmail.com",
+      "score": 90
+    },
+    {
+      "type": "Java",
+      "no": 105,
+      "email": "phamxuantritue.studio@gmail.com",
+      "score": 78
+    },
+    {
+      "type": "Java",
+      "no": 106,
+      "email": "phanduytan475@gmail.com",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 107,
+      "email": "phbtoan9185@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 108,
+      "email": "phong.tgn02575@sinhvien.hoasen.edu.vn",
+      "score": 50
+    },
+    {
+      "type": "Java",
+      "no": 109,
+      "email": "phuc0985531639@gmail.com",
+      "score": 72
+    },
+    {
+      "type": "Java",
+      "no": 110,
+      "email": "phuchoang.huynh.207@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 111,
+      "email": "phuong.ltd14901@gmail.com",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 112,
+      "email": "Qhuynguyenthai@gmail.com",
+      "score": 90
+    },
+    {
+      "type": "Java",
+      "no": 113,
+      "email": "quanggg2503@gmail.com",
+      "score": 90
+    },
+    {
+      "type": "Java",
+      "no": 114,
+      "email": "quangnguyenckc640@gmail.com",
+      "score": 60
+    },
+    {
+      "type": "Java",
+      "no": 115,
+      "email": "quocan102003@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 116,
+      "email": "socthanhnhi@gmail.com",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 117,
+      "email": "sytruong61@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 118,
+      "email": "taipvnbk2003@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 119,
+      "email": "taminhmon240199@gmail.com",
+      "score": 68
+    },
+    {
+      "type": "Java",
+      "no": 120,
+      "email": "tamtamtam6a5@gmail.com",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 121,
+      "email": "tanh11704@gmail.com",
+      "score": 80
+    },
+    {
+      "type": "Java",
+      "no": 122,
+      "email": "Thaihoang03072002@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 123,
+      "email": "thaihoangcr1@gmail.com",
+      "score": 18
+    },
+    {
+      "type": "Java",
+      "no": 124,
+      "email": "thang8111999@gmail.com",
+      "score": 60
+    },
+    {
+      "type": "Java",
+      "no": 125,
+      "email": "thangqtran23@gmail.com",
+      "score": 20
+    },
+    {
+      "type": "Java",
+      "no": 126,
+      "email": "thanh131001@gmail.com",
+      "score": 90
+    },
+    {
+      "type": "Java",
+      "no": 127,
+      "email": "thanhdp881@gmail.com",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 128,
+      "email": "thanhnguyenthanhgs@gmail.com",
+      "score": 42
+    },
+    {
+      "type": "Java",
+      "no": 129,
+      "email": "thoianhtuan1020@gmail.com",
+      "score": 64
+    },
+    {
+      "type": "Java",
+      "no": 130,
+      "email": "thoitranngocthach30@gmail.com",
+      "score": 90
+    },
+    {
+      "type": "Java",
+      "no": 131,
+      "email": "thuanptg1999@gmail.com",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 132,
+      "email": "thu.tranthi@atcollabo.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 133,
+      "email": "thuydung12111990@gmail.com",
+      "score": 50
+    },
+    {
+      "type": "Java",
+      "no": 134,
+      "email": "thuynguyetquynh@gmail.com",
+      "score": 90
+    },
+    {
+      "type": "Java",
+      "no": 135,
+      "email": "thuytrang.ngo@atcollabo.com",
+      "score": 0
+    },
+    {
+      "type": "Java",
+      "no": 136,
+      "email": "tiendatcntt1309@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 137,
+      "email": "tientk17@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 138,
+      "email": "tingkhanh2004@gmail.com",
+      "score": 42
+    },
+    {
+      "type": "Java",
+      "no": 139,
+      "email": "tminh193.bil@gmail.com",
+      "score": 36
+    },
+    {
+      "type": "Java",
+      "no": 140,
+      "email": "tranb2203588@student.ctu.edu.vn",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 141,
+      "email": "trancuong4896@gmail.com",
+      "score": 64
+    },
+    {
+      "type": "Java",
+      "no": 142,
+      "email": "tranduyen280297@gmail.com",
+      "score": 60
+    },
+    {
+      "type": "Java",
+      "no": 143,
+      "email": "tranhoaithuong09122003@gmail.com",
+      "score": 78
+    },
+    {
+      "type": "Java",
+      "no": 144,
+      "email": "tranquockhanhdhsp99@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 145,
+      "email": "tranvanluc2506@gmail.com",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 146,
+      "email": "tranvuhoanga7@gmail.com",
+      "score": 50
+    },
+    {
+      "type": "Java",
+      "no": 147,
+      "email": "tranyenanh2912@gmail.com",
+      "score": 32
+    },
+    {
+      "type": "Java",
+      "no": 148,
+      "email": "trungnguyen272@icloud.com",
+      "score": 72
+    },
+    {
+      "type": "Java",
+      "no": 149,
+      "email": "trung.vuxuanmai@hcmut.edu.vn",
+      "score": 72
+    },
+    {
+      "type": "Java",
+      "no": 150,
+      "email": "Tthaotthao78@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 151,
+      "email": "ttrang.nghiem@atcollabo.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 152,
+      "email": "tungduong0708@gmail.com",
+      "score": 60
+    },
+    {
+      "type": "Java",
+      "no": 153,
+      "email": "tungvucao151@gmail.com",
+      "score": 42
+    },
+    {
+      "type": "Java",
+      "no": 154,
+      "email": "tvphong12a13.2022@gmail.com",
+      "score": 90
+    },
+    {
+      "type": "Java",
+      "no": 155,
+      "email": "txuan5357@gmail.com",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 156,
+      "email": "uyenhuynh13122000@gmail.com",
+      "score": 90
+    },
+    {
+      "type": "Java",
+      "no": 157,
+      "email": "van.nguyenbk910@gmail.com",
+      "score": 78
+    },
+    {
+      "type": "Java",
+      "no": 158,
+      "email": "vanphuoc1029@gmail.com",
+      "score": 78
+    },
+    {
+      "type": "Java",
+      "no": 159,
+      "email": "vantungdeveloper@gmail.com",
+      "score": 72
+    },
+    {
+      "type": "Java",
+      "no": 160,
+      "email": "vinh534473@gmail.com",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 161,
+      "email": "vinh.caok21@hcmut.edu.vn",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 162,
+      "email": "vominhdat65@gmail.com",
+      "score": 82
+    },
+    {
+      "type": "Java",
+      "no": 163,
+      "email": "vt.dang000@gmail.com",
+      "score": 100
+    },
+    {
+      "type": "Java",
+      "no": 164,
+      "email": "vu.phamxuan2806@hcmut.edu.vn",
+      "score": 82
+    }
+
 ]

@@ -8,7 +8,9 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 @RestController
 @RequestMapping("/api/mockdata")
@@ -22,13 +24,21 @@ public class MockDataController {
     }
 
     @GetMapping("/results/{email}")
-    public ResponseEntity<List<String>> getResultsByEmail(@PathVariable String email) {
-        List<String> results = mockDataService.searchResultsByEmail(email);
-        System.out.println("Result: " + results);
-        if (results.isEmpty()) {
+    public ResponseEntity<Map<String, List<String>>> getResultsByEmail(@PathVariable String email) {
+        List<String> resultsForJava = mockDataService.searchResultsByEmail(email,"java");
+        List<String> resultsForSpringBoot = mockDataService.searchResultsByEmail(email, "SpringBoot");
+
+
+        Map<String, List<String>> combinedResults = new HashMap<>();
+        combinedResults.put("Java", resultsForJava);
+        combinedResults.put("SpringBoot", resultsForSpringBoot);
+
+        System.out.println("Result: " + combinedResults);
+        if (resultsForJava.isEmpty() && resultsForSpringBoot.isEmpty()) {
             return ResponseEntity.notFound().build();
         } else {
-            return ResponseEntity.ok(results);
+            return ResponseEntity.ok(combinedResults);
         }
+
     }
 }
