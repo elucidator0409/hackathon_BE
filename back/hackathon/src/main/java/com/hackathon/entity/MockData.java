@@ -27,7 +27,7 @@ public class MockData {
     private String email;
 
     @Column(nullable = false, unique = false)
-    private Integer score; // Use Integer to handle null values
+    private Integer score;
 
     public int getNo() {
         return no;
