@@ -26,15 +26,16 @@ public class MockDataController {
     @GetMapping("/results/{email}")
     public ResponseEntity<Map<String, List<String>>> getResultsByEmail(@PathVariable String email) {
 
-        List<String> resultsForFinalTest = mockDataService.searchResultsByEmail(email, "FinalTest");
+        List<String> resultsForFinalTest = mockDataService.searchResultsByEmail(email, "SpringBoot");
         List<String> resultSqlReTest= mockDataService.searchResultsByEmail(email, "Sql");
 
 
         Map<String, List<String>> combinedResults = new HashMap<>();
         combinedResults.put("Sql", resultSqlReTest);
+        combinedResults.put("SpringBoot", resultsForFinalTest);
 
         System.out.println("Result: " + combinedResults);
-        if (resultSqlReTest.isEmpty()) {
+        if (resultSqlReTest.isEmpty() && resultsForFinalTest.isEmpty() ) {
             return ResponseEntity.notFound().build();
         } else {
             return ResponseEntity.ok(combinedResults);
